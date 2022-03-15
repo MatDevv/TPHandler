@@ -1,1 +1,2329 @@
- local jp = Instance.new("\83\99\114\101\101\110\71\117\105") local bj = Instance.new("\70\114\97\109\101") local nb = Instance.new("\85\73\67\111\114\110\101\114") local fn = Instance.new("\70\114\97\109\101") local hf = Instance.new("\85\73\67\111\114\110\101\114") local gh = Instance.new("\84\101\120\116\76\97\98\101\108") local qg = Instance.new("\84\101\120\116\66\117\116\116\111\110") local oq = Instance.new("\85\73\67\111\114\110\101\114") local ghfnbjpdmtr = Instance.new("\84\101\120\116\66\117\116\116\111\110") local ke = Instance.new("\85\73\67\111\114\110\101\114") local ik = Instance.new("\84\101\120\116\66\117\116\116\111\110") local ci = Instance.new("\85\73\67\111\114\110\101\114") local lc = Instance.new("\84\101\120\116\66\117\116\116\111\110") local _l = Instance.new("\85\73\67\111\114\110\101\114") local s_l = Instance.new("\84\101\120\116\66\117\116\116\111\110") local rs_ = Instance.new("\85\73\67\111\114\110\101\114") local trs = Instance.new("\70\114\97\109\101") local nb_8 = Instance.new("\85\73\67\111\114\110\101\114") local dmt = Instance.new("\84\101\120\116\76\97\98\101\108") local pdm = Instance.new("\85\73\67\111\114\110\101\114") local jpd = Instance.new("\83\99\114\111\108\108\105\110\103\70\114\97\109\101") local bjp = Instance.new("\85\73\67\111\114\110\101\114") local nbj = Instance.new("\84\101\120\116\66\117\116\116\111\110") local fnb = Instance.new("\85\73\67\111\114\110\101\114") local hfn = Instance.new("\84\101\120\116\66\117\116\116\111\110") local ghf = Instance.new("\85\73\67\111\114\110\101\114") local qgh = Instance.new("\84\101\120\116\76\97\98\101\108") local oqg = Instance.new("\85\73\67\111\114\110\101\114") local qgh_2 = Instance.new("\84\101\120\116\76\97\98\101\108") local keo = Instance.new("\85\73\67\111\114\110\101\114") local ike = Instance.new("\84\101\120\116\76\97\98\101\108") local cik = Instance.new("\85\73\67\111\114\110\101\114") local lci = Instance.new("\84\101\120\116\76\97\98\101\108") local _lc = Instance.new("\85\73\67\111\114\110\101\114") local s_lc = Instance.new("\84\101\120\116\76\97\98\101\108") local nb_17 = Instance.new("\85\73\67\111\114\110\101\114") local trs_ = Instance.new("\84\101\120\116\66\117\116\116\111\110") local mtrs = Instance.new("\85\73\67\111\114\110\101\114") local dmtr = Instance.new("\84\101\120\116\66\117\116\116\111\110") local pdmt = Instance.new("\85\73\67\111\114\110\101\114") local jpdm = Instance.new("\84\101\120\116\66\117\116\116\111\110") local bjpd = Instance.new("\85\73\67\111\114\110\101\114") local nbjp = Instance.new("\84\101\120\116\66\117\116\116\111\110") local fnbj = Instance.new("\85\73\67\111\114\110\101\114") local hfnb = Instance.new("\70\114\97\109\101") local ghfn = Instance.new("\85\73\67\111\114\110\101\114") local qghf = Instance.new("\84\101\120\116\66\117\116\116\111\110") local oqgh = Instance.new("\85\73\67\111\114\110\101\114") local eoqg = Instance.new("\84\101\120\116\66\117\116\116\111\110") local nb_24 = Instance.new("\85\73\67\111\114\110\101\114") local ikeo = Instance.new("\84\101\120\116\66\117\116\116\111\110") local cike = Instance.new("\85\73\67\111\114\110\101\114") local lcik = Instance.new("\84\101\120\116\66\117\116\116\111\110") local _lci = Instance.new("\85\73\67\111\114\110\101\114") local s_lci = Instance.new("\84\101\120\116\76\97\98\101\108") local rs_lc = Instance.new("\85\73\67\111\114\110\101\114") local trs_l = Instance.new("\84\101\120\116\76\97\98\101\108") local mtrs_ = Instance.new("\85\73\67\111\114\110\101\114") local dmtrs = Instance.new("\84\101\120\116\76\97\98\101\108") local pdmtr = Instance.new("\85\73\67\111\114\110\101\114") local jpdmt = Instance.new("\84\101\120\116\76\97\98\101\108") local bjpdm = Instance.new("\85\73\67\111\114\110\101\114") local nbjpd = Instance.new("\84\101\120\116\66\117\116\116\111\110") local fnbjp = Instance.new("\85\73\67\111\114\110\101\114") local hfnbj = Instance.new("\84\101\120\116\66\117\116\116\111\110") local ghfnb = Instance.new("\85\73\67\111\114\110\101\114") local qghfn = Instance.new("\84\101\120\116\66\117\116\116\111\110") local oqghf = Instance.new("\85\73\67\111\114\110\101\114") local eoqgh = Instance.new("\84\101\120\116\66\117\116\116\111\110") local keoqg = Instance.new("\85\73\67\111\114\110\101\114") local ikeoq = Instance.new("\84\101\120\116\66\117\116\116\111\110") local cikeo = Instance.new("\85\73\67\111\114\110\101\114") local lcike = Instance.new("\84\101\120\116\66\117\116\116\111\110") local _lcik = Instance.new("\85\73\67\111\114\110\101\114") local s_lcik = Instance.new("\84\101\120\116\66\117\116\116\111\110") local rs_lci = Instance.new("\85\73\67\111\114\110\101\114") local trs_lc = Instance.new("\84\101\120\116\66\117\116\116\111\110") local mtrs_l = Instance.new("\85\73\67\111\114\110\101\114") local dmtrs_ = Instance.new("\70\114\97\109\101") local pdmtrs = Instance.new("\85\73\67\111\114\110\101\114") local jpdmtr = Instance.new("\84\101\120\116\76\97\98\101\108") local bjpdmt = Instance.new("\85\73\67\111\114\110\101\114") local jpd_2 = Instance.new("\83\99\114\111\108\108\105\110\103\70\114\97\109\101") local fnbjpd = Instance.new("\85\73\67\111\114\110\101\114") local hfnbjp = Instance.new("\84\101\120\116\76\97\98\101\108") local ghfnbj = Instance.new("\85\73\67\111\114\110\101\114") local qghfnb = Instance.new("\84\101\120\116\76\97\98\101\108") local nb_43 = Instance.new("\85\73\67\111\114\110\101\114") local eoqghf = Instance.new("\84\101\120\116\76\97\98\101\108") local keoqgh = Instance.new("\85\73\67\111\114\110\101\114") local ikeoqg = Instance.new("\84\101\120\116\76\97\98\101\108") local cikeoq = Instance.new("\85\73\67\111\114\110\101\114") local lcikeo = Instance.new("\84\101\120\116\76\97\98\101\108") local _lcike = Instance.new("\85\73\67\111\114\110\101\114") local s_lcike = Instance.new("\84\101\120\116\76\97\98\101\108") local rs_lcik = Instance.new("\85\73\67\111\114\110\101\114") local trs_lci = Instance.new("\84\101\120\116\76\97\98\101\108") local mtrs_lc = Instance.new("\85\73\67\111\114\110\101\114") local qgh_13 = Instance.new("\84\101\120\116\76\97\98\101\108") local pdmtrs_ = Instance.new("\85\73\67\111\114\110\101\114") local qgh_14 = Instance.new("\84\101\120\116\76\97\98\101\108") local bjpdmtr = Instance.new("\85\73\67\111\114\110\101\114") local qgh_15 = Instance.new("\84\101\120\116\76\97\98\101\108") local fnbjpdm = Instance.new("\85\73\67\111\114\110\101\114") local hfnbjpd = Instance.new("\84\101\120\116\66\117\116\116\111\110") local ghfnbjp = Instance.new("\85\73\67\111\114\110\101\114") local qghfnbj = Instance.new("\84\101\120\116\66\117\116\116\111\110") local oqghfnb = Instance.new("\85\73\67\111\114\110\101\114") local eoqghfn = Instance.new("\84\101\120\116\66\117\116\116\111\110") local keoqghf = Instance.new("\85\73\67\111\114\110\101\114") local ikeoqgh = Instance.new("\84\101\120\116\66\117\116\116\111\110") local cikeoqg = Instance.new("\85\73\67\111\114\110\101\114") local lcikeoq = Instance.new("\84\101\120\116\66\117\116\116\111\110") local _lcikeo = Instance.new("\85\73\67\111\114\110\101\114") local s_lcikeo = Instance.new("\84\101\120\116\66\117\116\116\111\110") local rs_lcike = Instance.new("\85\73\67\111\114\110\101\114") local trs_lcik = Instance.new("\84\101\120\116\66\117\116\116\111\110") local mtrs_lci = Instance.new("\85\73\67\111\114\110\101\114") local dmtrs_lc = Instance.new("\84\101\120\116\66\117\116\116\111\110") local nb_59 = Instance.new("\85\73\67\111\114\110\101\114") local jpdmtrs_ = Instance.new("\84\101\120\116\66\117\116\116\111\110") local bjpdmtrs = Instance.new("\85\73\67\111\114\110\101\114") local nbjpdmtr = Instance.new("\70\114\97\109\101") local fnbjpdmt = Instance.new("\85\73\67\111\114\110\101\114") local hfnbjpdm = Instance.new("\83\99\114\111\108\108\105\110\103\70\114\97\109\101") local ghfnbjpd = Instance.new("\85\73\67\111\114\110\101\114") local qghfnbjp = Instance.new("\84\101\120\116\66\111\120") local oqghfnbj = Instance.new("\85\73\67\111\114\110\101\114") local eoqghfnb = Instance.new("\84\101\120\116\66\117\116\116\111\110") local keoqghfn = Instance.new("\85\73\67\111\114\110\101\114") local ikeoqghf = Instance.new("\84\101\120\116\66\117\116\116\111\110") local cikeoqgh = Instance.new("\85\73\67\111\114\110\101\114") local lcikeoqg = Instance.new("\84\101\120\116\66\111\120") local _lcikeoq = Instance.new("\85\73\67\111\114\110\101\114") local s_lcikeoq = Instance.new("\84\101\120\116\66\117\116\116\111\110") local rs_lcikeo = Instance.new("\85\73\67\111\114\110\101\114") local trs_lcike = Instance.new("\84\101\120\116\66\117\116\116\111\110") local mtrs_lcik = Instance.new("\85\73\67\111\114\110\101\114") local dmtrs_lci = Instance.new("\84\101\120\116\66\117\116\116\111\110") local pdmtrs_lc = Instance.new("\85\73\67\111\114\110\101\114") local jpdmtrs_l = Instance.new("\84\101\120\116\66\117\116\116\111\110") local bjpdmtrs_ = Instance.new("\85\73\67\111\114\110\101\114") local nbjpdmtrs = Instance.new("\84\101\120\116\76\97\98\101\108") local fnbjpdmtr = Instance.new("\85\73\67\111\114\110\101\114") local qgh_17 = Instance.new("\84\101\120\116\76\97\98\101\108") local ghfnbjpdm = Instance.new("\85\73\67\111\114\110\101\114") local qgh_18 = Instance.new("\84\101\120\116\76\97\98\101\108") local oqghfnbjp = Instance.new("\85\73\67\111\114\110\101\114") local eoqghfnbj = Instance.new("\84\101\120\116\76\97\98\101\108") local keoqghfnb = Instance.new("\85\73\67\111\114\110\101\114") local ikeoqghfn = Instance.new("\84\101\120\116\66\117\116\116\111\110") local cikeoqghf = Instance.new("\85\73\67\111\114\110\101\114") local lcikeoqgh = Instance.new("\84\101\120\116\76\97\98\101\108") local _lcikeoqg = Instance.new("\84\101\120\116\76\97\98\101\108") local s_lcikeoqg = Instance.new("\85\73\67\111\114\110\101\114") local rs_lcikeoq = Instance.new("\70\114\97\109\101") local trs_lcikeo = Instance.new("\85\73\67\111\114\110\101\114") local mtrs_lcike = Instance.new("\84\101\120\116\66\117\116\116\111\110") local dmtrs_lcik = Instance.new("\85\73\67\111\114\110\101\114") local pdmtrs_lci = Instance.new("\84\101\120\116\66\117\116\116\111\110") local jpdmtrs_lc = Instance.new("\85\73\67\111\114\110\101\114") local bjpdmtrs_l = Instance.new("\84\101\120\116\66\117\116\116\111\110") local nbjpdmtrs_ = Instance.new("\85\73\67\111\114\110\101\114") local fnbjpdmtrs = Instance.new("\84\101\120\116\66\117\116\116\111\110") local hfnbjpdmtr = Instance.new("\85\73\67\111\114\110\101\114") local ghfnbjpdmt = Instance.new("\84\101\120\116\66\117\116\116\111\110") local qghfnbjpdm = Instance.new("\85\73\67\111\114\110\101\114") local oqghfnbjpd = Instance.new("\84\101\120\116\66\117\116\116\111\110") local eoqghfnbjp = Instance.new("\85\73\67\111\114\110\101\114") local keoqghfnbj = Instance.new("\84\101\120\116\66\117\116\116\111\110") local ikeoqghfnb = Instance.new("\85\73\67\111\114\110\101\114") local ghfnbjpdmt_4 = Instance.new("\84\101\120\116\66\117\116\116\111\110") local lcikeoqghf = Instance.new("\85\73\67\111\114\110\101\114") local _lcikeoqgh = Instance.new("\73\109\97\103\101\76\97\98\101\108") jp.Name = "\84\105\116\97\110\72\117\98\65\117\116" jp.Parent = game.Players.LocalPlayer:WaitForChild("\80\108\97\121\101\114\71\117\105") jp.ZIndexBehavior = Enum.ZIndexBehavior.Sibling bj.Name = "\65\85\84" bj.Parent = jp bj.Active = true bj.AnchorPoint = Vector2.new(0.5, 0.5) bj.BackgroundColor3 = Color3.fromRGB(42, 42, 42) bj.Position = UDim2.new(0.499061882, 0, 0.50939405, 0) bj.Size = UDim2.new(0, 564, 0, 421) bj.Draggable = true nb.CornerRadius = UDim.new(0, 24) nb.Parent = bj fn.Name = "\115\101\99\111\110\100\97\114\121" fn.Parent = bj fn.Active = true fn.BackgroundColor3 = Color3.fromRGB(24, 24, 24) fn.Position = UDim2.new(0, 0, 0.0800146237, 0) fn.Size = UDim2.new(0, 564, 0, 387) hf.CornerRadius = UDim.new(0, 24) hf.Parent = fn gh.Name = "\84\105\116\97\110\72\117\98" gh.Parent = bj gh.BackgroundColor3 = Color3.fromRGB(255, 255, 255) gh.BackgroundTransparency = 1.000 gh.Position = UDim2.new(0.324078023, 0, -0.0199999996, 0) gh.Size = UDim2.new(0, 200, 0, 50) gh.ZIndex = 4 gh.Font = Enum.Font.SourceSansBold gh.Text = "\84\105\116\97\110\32\72\117\98\32\124\32\65\32\85\110\105\118\101\114\115\97\108\32\84\105\109\101" gh.TextColor3 = Color3.fromRGB(117, 117, 117) gh.TextSize = 30.000 qg.Name = "\80\108\97\121\101\114\84\97\98" qg.Parent = bj qg.BackgroundColor3 = Color3.fromRGB(65, 65, 65) qg.Position = UDim2.new(0.0284113474, 0, 0.101000004, 0) qg.Size = UDim2.new(0, 87, 0, 33) qg.ZIndex = 5 qg.AutoButtonColor = false qg.Font = Enum.Font.SourceSansBold qg.Text = "\80\108\97\121\101\114" qg.TextColor3 = Color3.fromRGB(255, 255, 255) qg.TextSize = 29.000 qg.TextWrapped = true oq.CornerRadius = UDim.new(0, 24) oq.Parent = qg ghfnbjpdmtr.Name = "\115\101\99\111\110\100\116\97\98" ghfnbjpdmtr.Parent = bj ghfnbjpdmtr.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ghfnbjpdmtr.Position = UDim2.new(0.223234057, 0, 0.101000004, 0) ghfnbjpdmtr.Size = UDim2.new(0, 87, 0, 33) ghfnbjpdmtr.ZIndex = 5 ghfnbjpdmtr.AutoButtonColor = false ghfnbjpdmtr.Font = Enum.Font.SourceSansBold ghfnbjpdmtr.Text = "\70\97\114\109" ghfnbjpdmtr.TextColor3 = Color3.fromRGB(255, 255, 255) ghfnbjpdmtr.TextSize = 29.000 ke.CornerRadius = UDim.new(0, 24) ke.Parent = ghfnbjpdmtr ik.Name = "\84\112\84\97\98" ik.Parent = bj ik.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ik.Position = UDim2.new(0.422056735, 0, 0.101000004, 0) ik.Size = UDim2.new(0, 87, 0, 33) ik.ZIndex = 5 ik.AutoButtonColor = false ik.Font = Enum.Font.SourceSansBold ik.Text = "\84\80" ik.TextColor3 = Color3.fromRGB(255, 255, 255) ik.TextSize = 29.000 ci.CornerRadius = UDim.new(0, 24) ci.Parent = ik lc.Name = "\77\105\115\99\84\97\98" lc.Parent = bj lc.BackgroundColor3 = Color3.fromRGB(42, 42, 42) lc.Position = UDim2.new(0.615560293, 0, 0.101000004, 0) lc.Size = UDim2.new(0, 87, 0, 33) lc.ZIndex = 5 lc.AutoButtonColor = false lc.Font = Enum.Font.SourceSansBold lc.Text = "\83\101\116\116\105\110\103\115" lc.TextColor3 = Color3.fromRGB(255, 255, 255) lc.TextSize = 25.000 _l.CornerRadius = UDim.new(0, 24) _l.Parent = lc s_l.Name = "\67\114\101\100\105\116\115\84\97\98" s_l.Parent = bj s_l.BackgroundColor3 = Color3.fromRGB(42, 42, 42) s_l.Position = UDim2.new(0.811836839, 0, 0.101000004, 0) s_l.Size = UDim2.new(0, 87, 0, 33) s_l.ZIndex = 5 s_l.AutoButtonColor = false s_l.Font = Enum.Font.SourceSansBold s_l.Text = "\67\114\101\100\105\116\115" s_l.TextColor3 = Color3.fromRGB(255, 255, 255) s_l.TextSize = 29.000 rs_.CornerRadius = UDim.new(0, 24) rs_.Parent = s_l trs.Name = "\77\105\115\99\70\114\97\109\101" trs.Parent = bj trs.Active = true trs.BackgroundColor3 = Color3.fromRGB(42, 42, 42) trs.Position = UDim2.new(0.0301418435, 0, 0.208280653, 0) trs.Size = UDim2.new(0, 528, 0, 319) trs.Visible = false trs.ZIndex = 10 nb_8.CornerRadius = UDim.new(0, 24) nb_8.Parent = trs dmt.Name = "\98\97\99\107\103\114\111\117\110\100" dmt.Parent = trs dmt.Active = true dmt.BackgroundColor3 = Color3.fromRGB(24, 24, 24) dmt.Position = UDim2.new(0.0303030312, 0, 0.0501567386, 0) dmt.Size = UDim2.new(0, 500, 0, 287) dmt.Font = Enum.Font.SourceSans dmt.Text = "" dmt.TextColor3 = Color3.fromRGB(0, 0, 0) dmt.TextSize = 14.000 pdm.Parent = dmt jpd.Name = "\109\97\105\110\115\99\114\111\108\108\101\114\115\101\116\116\105\110\103" jpd.Parent = trs jpd.Active = true jpd.BackgroundColor3 = Color3.fromRGB(0, 0, 0) jpd.BackgroundTransparency = 1.000 jpd.BorderColor3 = Color3.fromRGB(24, 24, 24) jpd.Position = UDim2.new(0.026515156, 0, 0.0501567423, 0) jpd.Size = UDim2.new(0, 500, 0, 287) jpd.ZIndex = 2 bjp.Parent = jpd nbj.Name = "\105\100\107\121\101\116" nbj.Parent = jpd nbj.BackgroundColor3 = Color3.fromRGB(42, 42, 42) nbj.BackgroundTransparency = 1.000 nbj.Position = UDim2.new(0.36456576, 0, 0.140780672, 0) nbj.Size = UDim2.new(0, 136, 0, 33) nbj.ZIndex = 5 nbj.AutoButtonColor = false nbj.Font = Enum.Font.SourceSansBold nbj.Text = "\73\68\75" nbj.TextColor3 = Color3.fromRGB(255, 255, 255) nbj.TextSize = 40.000 fnb.CornerRadius = UDim.new(0, 24) fnb.Parent = nbj hfn.Name = "\98\117\116\116\111\110\32\115\111\117\110\100\32\108\97\98\101\108" hfn.Parent = jpd hfn.BackgroundColor3 = Color3.fromRGB(42, 42, 42) hfn.BackgroundTransparency = 1.000 hfn.Position = UDim2.new(0.0905657709, 0, 0.0357649997, 0) hfn.Size = UDim2.new(0, 136, 0, 33) hfn.ZIndex = 5 hfn.AutoButtonColor = false hfn.Font = Enum.Font.SourceSansBold hfn.Text = "\66\117\116\116\111\110\32\83\111\117\110\100\115\32\40\73\78\32\68\69\86\41" hfn.TextColor3 = Color3.fromRGB(255, 255, 255) hfn.TextSize = 21.000 ghf.CornerRadius = UDim.new(0, 24) ghf.Parent = hfn qgh.Name = "\100\101\115\105\103\110" qgh.Parent = jpd qgh.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qgh.Position = UDim2.new(0.0328332521, 0, 0.237947524, 0) qgh.Size = UDim2.new(0, 454, 0, 50) qgh.ZIndex = 3 qgh.Font = Enum.Font.SourceSans qgh.Text = "" qgh.TextColor3 = Color3.fromRGB(0, 0, 0) qgh.TextSize = 14.000 oqg.Parent = qgh qgh_2.Name = "\100\101\115\105\103\110" qgh_2.Parent = jpd qgh_2.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qgh_2.Position = UDim2.new(0.0328332521, 0, 0.02321399, 0) qgh_2.Size = UDim2.new(0, 454, 0, 50) qgh_2.ZIndex = 3 qgh_2.Font = Enum.Font.SourceSans qgh_2.Text = "" qgh_2.TextColor3 = Color3.fromRGB(0, 0, 0) qgh_2.TextSize = 14.000 keo.Parent = qgh_2 ike.Name = "\100\101\115\105\103\110" ike.Parent = jpd ike.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ike.Position = UDim2.new(0.0328332521, 0, 0.349232793, 0) ike.Size = UDim2.new(0, 454, 0, 50) ike.ZIndex = 3 ike.Font = Enum.Font.SourceSans ike.Text = "" ike.TextColor3 = Color3.fromRGB(0, 0, 0) ike.TextSize = 14.000 cik.Parent = ike lci.Name = "\100\101\115\105\103\110" lci.Parent = jpd lci.BackgroundColor3 = Color3.fromRGB(42, 42, 42) lci.Position = UDim2.new(0.0328332521, 0, 0.128229663, 0) lci.Size = UDim2.new(0, 454, 0, 50) lci.ZIndex = 3 lci.Font = Enum.Font.SourceSans lci.Text = "" lci.TextColor3 = Color3.fromRGB(0, 0, 0) lci.TextSize = 14.000 _lc.Parent = lci s_lc.Name = "\100\101\115\105\103\110" s_lc.Parent = jpd s_lc.BackgroundColor3 = Color3.fromRGB(42, 42, 42) s_lc.Position = UDim2.new(0.0328332521, 0, 0.349232793, 0) s_lc.Size = UDim2.new(0, 454, 0, 50) s_lc.ZIndex = 3 s_lc.Font = Enum.Font.SourceSans s_lc.Text = "" s_lc.TextColor3 = Color3.fromRGB(0, 0, 0) s_lc.TextSize = 14.000 nb_17.Parent = s_lc trs_.Name = "\68\79\32\78\79\84\32\80\82\69\83\83\33\33\33" trs_.Parent = jpd trs_.BackgroundColor3 = Color3.fromRGB(24, 24, 24) trs_.Position = UDim2.new(0.0665657669, 0, 0.361783803, 0) trs_.Size = UDim2.new(0, 420, 0, 33) trs_.ZIndex = 5 trs_.AutoButtonColor = false trs_.Font = Enum.Font.SourceSansBold trs_.Text = "\68\79\32\78\79\84\32\80\82\69\83\83\33\33\33" trs_.TextColor3 = Color3.fromRGB(83, 0, 1) trs_.TextSize = 30.000 mtrs.CornerRadius = UDim.new(0, 10) mtrs.Parent = trs_ dmtr.Name = "\98\117\116\116\111\110\115\111\117\110\100\111\110" dmtr.Parent = jpd dmtr.BackgroundColor3 = Color3.fromRGB(24, 24, 24) dmtr.Position = UDim2.new(0.732396126, 0, 0.0336018912, 0) dmtr.Size = UDim2.new(0, 87, 0, 33) dmtr.ZIndex = 5 dmtr.AutoButtonColor = false dmtr.Font = Enum.Font.SourceSansBold dmtr.Text = "\79\110" dmtr.TextColor3 = Color3.fromRGB(255, 255, 255) dmtr.TextSize = 29.000 dmtr.TextWrapped = true pdmt.CornerRadius = UDim.new(0, 24) pdmt.Parent = dmtr jpdm.Name = "\98\117\116\116\111\110\115\111\117\110\100\115\111\102\102" jpdm.Parent = jpd jpdm.BackgroundColor3 = Color3.fromRGB(24, 24, 24) jpdm.Position = UDim2.new(0.527790129, 0, 0.0336018912, 0) jpdm.Size = UDim2.new(0, 87, 0, 33) jpdm.ZIndex = 5 jpdm.AutoButtonColor = false jpdm.Font = Enum.Font.SourceSansBold jpdm.Text = "\79\102\102" jpdm.TextColor3 = Color3.fromRGB(149, 0, 2) jpdm.TextSize = 29.000 jpdm.TextWrapped = true bjpd.CornerRadius = UDim.new(0, 24) bjpd.Parent = jpdm nbjp.Name = "\68\101\115\116\114\111\121\32\85\73" nbjp.Parent = jpd nbjp.BackgroundColor3 = Color3.fromRGB(24, 24, 24) nbjp.Position = UDim2.new(0.0665657669, 0, 0.250498533, 0) nbjp.Size = UDim2.new(0, 420, 0, 33) nbjp.ZIndex = 5 nbjp.AutoButtonColor = false nbjp.Font = Enum.Font.SourceSansBold nbjp.Text = "\68\101\115\116\114\111\121\32\85\73" nbjp.TextColor3 = Color3.fromRGB(255, 255, 255) nbjp.TextSize = 30.000 fnbj.CornerRadius = UDim.new(0, 10) fnbj.Parent = nbjp hfnb.Name = "\70\97\114\109\70\114\97\109\101" hfnb.Parent = bj hfnb.Active = true hfnb.BackgroundColor3 = Color3.fromRGB(42, 42, 42) hfnb.Position = UDim2.new(0.0301418435, 0, 0.208280653, 0) hfnb.Size = UDim2.new(0, 528, 0, 319) hfnb.Visible = false ghfn.CornerRadius = UDim.new(0, 24) ghfn.Parent = hfnb qghf.Name = "\77\101\116\101\111\114\70\97\114\109\76\97\98\101\108" qghf.Parent = hfnb qghf.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qghf.BackgroundTransparency = 1.000 qghf.Position = UDim2.new(0.0765657723, 0, 0.057708554, 0) qghf.Size = UDim2.new(0, 136, 0, 33) qghf.ZIndex = 5 qghf.AutoButtonColor = false qghf.Font = Enum.Font.SourceSansBold qghf.Text = "\67\111\109\105\110\103\32\83\111\111\110" qghf.TextColor3 = Color3.fromRGB(255, 255, 255) qghf.TextSize = 29.000 oqgh.CornerRadius = UDim.new(0, 24) oqgh.Parent = qghf eoqg.Name = "\83\97\110\100\68\101\98\114\105\115\70\97\114\109\76\97\98\101\108" eoqg.Parent = hfnb eoqg.BackgroundColor3 = Color3.fromRGB(42, 42, 42) eoqg.BackgroundTransparency = 1.000 eoqg.Position = UDim2.new(0.0405809209, 0, 0.744228899, 0) eoqg.Size = UDim2.new(0, 174, 0, 33) eoqg.ZIndex = 5 eoqg.AutoButtonColor = false eoqg.Font = Enum.Font.SourceSansBold eoqg.Text = "\67\111\109\105\110\103\32\83\111\111\110" eoqg.TextColor3 = Color3.fromRGB(255, 255, 255) eoqg.TextSize = 29.000 nb_24.CornerRadius = UDim.new(0, 24) nb_24.Parent = eoqg ikeo.Name = "\67\104\101\115\116\70\97\114\109\76\97\98\101\108" ikeo.Parent = hfnb ikeo.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ikeo.BackgroundTransparency = 1.000 ikeo.Position = UDim2.new(0.055732429, 0, 0.277144313, 0) ikeo.Size = UDim2.new(0, 136, 0, 33) ikeo.ZIndex = 5 ikeo.AutoButtonColor = false ikeo.Font = Enum.Font.SourceSansBold ikeo.Text = "\67\104\101\115\116\70\97\114\109" ikeo.TextColor3 = Color3.fromRGB(255, 255, 255) ikeo.TextSize = 29.000 cike.CornerRadius = UDim.new(0, 24) cike.Parent = ikeo lcik.Name = "\79\116\104\101\114\73\116\101\109\70\97\114\109\76\97\98\101\108" lcik.Parent = hfnb lcik.BackgroundColor3 = Color3.fromRGB(42, 42, 42) lcik.BackgroundTransparency = 1.000 lcik.Position = UDim2.new(0.0765657723, 0, 0.505984426, 0) lcik.Size = UDim2.new(0, 136, 0, 33) lcik.ZIndex = 5 lcik.AutoButtonColor = false lcik.Font = Enum.Font.SourceSansBold lcik.Text = "\67\111\109\105\110\103\32\83\111\111\110" lcik.TextColor3 = Color3.fromRGB(255, 255, 255) lcik.TextSize = 29.000 _lci.CornerRadius = UDim.new(0, 24) _lci.Parent = lcik s_lci.Name = "\68\101\115\105\103\110\77\101\116\101\111\114" s_lci.Parent = hfnb s_lci.BackgroundColor3 = Color3.fromRGB(24, 24, 24) s_lci.Position = UDim2.new(0.020833334, 0, 0.031347964, 0) s_lci.Size = UDim2.new(0, 500, 0, 50) s_lci.Font = Enum.Font.SourceSans s_lci.Text = "" s_lci.TextColor3 = Color3.fromRGB(0, 0, 0) s_lci.TextSize = 14.000 rs_lc.Parent = s_lci trs_l.Name = "\68\101\115\105\103\110\83\97\110\100\68\101\98\114\105\115" trs_l.Parent = hfnb trs_l.BackgroundColor3 = Color3.fromRGB(24, 24, 24) trs_l.Position = UDim2.new(0.020833334, 0, 0.714733541, 0) trs_l.Size = UDim2.new(0, 500, 0, 50) trs_l.Font = Enum.Font.SourceSans trs_l.Text = "" trs_l.TextColor3 = Color3.fromRGB(0, 0, 0) trs_l.TextSize = 14.000 mtrs_.Parent = trs_l dmtrs.Name = "\68\101\115\105\103\110\79\116\104\101\114\73\116\101\109\115" dmtrs.Parent = hfnb dmtrs.BackgroundColor3 = Color3.fromRGB(24, 24, 24) dmtrs.Position = UDim2.new(0.020833334, 0, 0.476489037, 0) dmtrs.Size = UDim2.new(0, 500, 0, 50) dmtrs.Font = Enum.Font.SourceSans dmtrs.Text = "" dmtrs.TextColor3 = Color3.fromRGB(0, 0, 0) dmtrs.TextSize = 14.000 pdmtr.Parent = dmtrs jpdmt.Name = "\68\101\115\105\103\110\67\104\101\115\116\115" jpdmt.Parent = hfnb jpdmt.BackgroundColor3 = Color3.fromRGB(24, 24, 24) jpdmt.Position = UDim2.new(0.020833334, 0, 0.250783712, 0) jpdmt.Size = UDim2.new(0, 500, 0, 50) jpdmt.Font = Enum.Font.SourceSans jpdmt.Text = "" jpdmt.TextColor3 = Color3.fromRGB(0, 0, 0) jpdmt.TextSize = 14.000 bjpdm.Parent = jpdmt nbjpd.Name = "\79\110\66\117\116\116\111\110\77\101\116\101\111\114" nbjpd.Parent = hfnb nbjpd.BackgroundColor3 = Color3.fromRGB(42, 42, 42) nbjpd.Position = UDim2.new(0.564396143, 0, 0.0571128651, 0) nbjpd.Size = UDim2.new(0, 87, 0, 33) nbjpd.ZIndex = 5 nbjpd.AutoButtonColor = false nbjpd.Font = Enum.Font.SourceSansBold nbjpd.Text = "\79\110" nbjpd.TextColor3 = Color3.fromRGB(255, 255, 255) nbjpd.TextSize = 29.000 nbjpd.TextWrapped = true fnbjp.CornerRadius = UDim.new(0, 24) fnbjp.Parent = nbjpd hfnbj.Name = "\79\102\102\66\117\116\116\111\110\77\101\116\101\111\114" hfnbj.Parent = hfnb hfnbj.BackgroundColor3 = Color3.fromRGB(42, 42, 42) hfnbj.Position = UDim2.new(0.75379014, 0, 0.0571128577, 0) hfnbj.Size = UDim2.new(0, 87, 0, 33) hfnbj.ZIndex = 5 hfnbj.AutoButtonColor = false hfnbj.Font = Enum.Font.SourceSansBold hfnbj.Text = "\79\102\102" hfnbj.TextColor3 = Color3.fromRGB(149, 0, 2) hfnbj.TextSize = 29.000 hfnbj.TextWrapped = true ghfnb.CornerRadius = UDim.new(0, 24) ghfnb.Parent = hfnbj qghfn.Name = "\79\110\66\117\116\116\111\110\79\116\104\101\114\73\116\101\109\115" qghfn.Parent = hfnb qghfn.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qghfn.Position = UDim2.new(0.564396143, 0, 0.50225389, 0) qghfn.Size = UDim2.new(0, 87, 0, 33) qghfn.ZIndex = 5 qghfn.AutoButtonColor = false qghfn.Font = Enum.Font.SourceSansBold qghfn.Text = "\79\110" qghfn.TextColor3 = Color3.fromRGB(255, 255, 255) qghfn.TextSize = 29.000 qghfn.TextWrapped = true oqghf.CornerRadius = UDim.new(0, 24) oqghf.Parent = qghfn eoqgh.Name = "\79\102\102\66\117\116\116\111\110\79\116\104\101\114\73\116\101\109\115" eoqgh.Parent = hfnb eoqgh.BackgroundColor3 = Color3.fromRGB(42, 42, 42) eoqgh.Position = UDim2.new(0.753790081, 0, 0.505388737, 0) eoqgh.Size = UDim2.new(0, 87, 0, 33) eoqgh.ZIndex = 5 eoqgh.AutoButtonColor = false eoqgh.Font = Enum.Font.SourceSansBold eoqgh.Text = "\79\102\102" eoqgh.TextColor3 = Color3.fromRGB(149, 0, 2) eoqgh.TextSize = 29.000 eoqgh.TextWrapped = true keoqg.CornerRadius = UDim.new(0, 24) keoqg.Parent = eoqgh ikeoq.Name = "\79\110\66\117\116\116\111\110\68\101\98\114\105\115" ikeoq.Parent = hfnb ikeoq.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ikeoq.Position = UDim2.new(0.564396143, 0, 0.737363636, 0) ikeoq.Size = UDim2.new(0, 87, 0, 33) ikeoq.ZIndex = 5 ikeoq.AutoButtonColor = false ikeoq.Font = Enum.Font.SourceSansBold ikeoq.Text = "\79\110" ikeoq.TextColor3 = Color3.fromRGB(255, 255, 255) ikeoq.TextSize = 29.000 ikeoq.TextWrapped = true cikeo.CornerRadius = UDim.new(0, 24) cikeo.Parent = ikeoq lcike.Name = "\79\102\102\66\117\116\116\111\110\67\104\101\115\116" lcike.Parent = hfnb lcike.BackgroundColor3 = Color3.fromRGB(42, 42, 42) lcike.Position = UDim2.new(0.753790081, 0, 0.276548594, 0) lcike.Size = UDim2.new(0, 87, 0, 33) lcike.ZIndex = 5 lcike.AutoButtonColor = false lcike.Font = Enum.Font.SourceSansBold lcike.Text = "\79\102\102" lcike.TextColor3 = Color3.fromRGB(149, 0, 2) lcike.TextSize = 29.000 lcike.TextWrapped = true _lcik.CornerRadius = UDim.new(0, 24) _lcik.Parent = lcike s_lcik.Name = "\79\110\66\117\116\116\111\110\67\104\101\115\116" s_lcik.Parent = hfnb s_lcik.BackgroundColor3 = Color3.fromRGB(42, 42, 42) s_lcik.Position = UDim2.new(0.564396143, 0, 0.273413807, 0) s_lcik.Size = UDim2.new(0, 87, 0, 33) s_lcik.ZIndex = 5 s_lcik.AutoButtonColor = false s_lcik.Font = Enum.Font.SourceSansBold s_lcik.Text = "\79\110" s_lcik.TextColor3 = Color3.fromRGB(255, 255, 255) s_lcik.TextSize = 29.000 s_lcik.TextWrapped = true rs_lci.CornerRadius = UDim.new(0, 24) rs_lci.Parent = s_lcik trs_lc.Name = "\79\102\102\66\117\116\116\111\110\68\101\98\114\105\115" trs_lc.Parent = hfnb trs_lc.BackgroundColor3 = Color3.fromRGB(42, 42, 42) trs_lc.Position = UDim2.new(0.753790081, 0, 0.740498424, 0) trs_lc.Size = UDim2.new(0, 87, 0, 33) trs_lc.ZIndex = 5 trs_lc.AutoButtonColor = false trs_lc.Font = Enum.Font.SourceSansBold trs_lc.Text = "\79\102\102" trs_lc.TextColor3 = Color3.fromRGB(149, 0, 2) trs_lc.TextSize = 29.000 trs_lc.TextWrapped = true mtrs_l.CornerRadius = UDim.new(0, 24) mtrs_l.Parent = trs_lc dmtrs_.Name = "\84\80\70\114\97\109\101" dmtrs_.Parent = bj dmtrs_.Active = true dmtrs_.BackgroundColor3 = Color3.fromRGB(42, 42, 42) dmtrs_.Position = UDim2.new(0.0301418435, 0, 0.208280653, 0) dmtrs_.Size = UDim2.new(0, 528, 0, 319) dmtrs_.Visible = false pdmtrs.CornerRadius = UDim.new(0, 24) pdmtrs.Parent = dmtrs_ jpdmtr.Name = "\98\97\99\107\103\114\111\117\110\100" jpdmtr.Parent = dmtrs_ jpdmtr.Active = true jpdmtr.BackgroundColor3 = Color3.fromRGB(24, 24, 24) jpdmtr.Position = UDim2.new(0.0303030312, 0, 0.0501567386, 0) jpdmtr.Size = UDim2.new(0, 500, 0, 287) jpdmtr.Font = Enum.Font.SourceSans jpdmtr.Text = "" jpdmtr.TextColor3 = Color3.fromRGB(0, 0, 0) jpdmtr.TextSize = 14.000 bjpdmt.Parent = jpdmtr jpd_2.Name = "\109\97\105\110\115\99\114\111\108\108\101\114\115\101\116\116\105\110\103" jpd_2.Parent = dmtrs_ jpd_2.Active = true jpd_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0) jpd_2.BackgroundTransparency = 1.000 jpd_2.BorderColor3 = Color3.fromRGB(24, 24, 24) jpd_2.Position = UDim2.new(0.026515156, 0, 0.0501567423, 0) jpd_2.Size = UDim2.new(0, 500, 0, 287) jpd_2.ZIndex = 2 fnbjpd.Parent = jpd_2 hfnbjp.Name = "\100\101\115\105\103\110" hfnbjp.Parent = jpd_2 hfnbjp.BackgroundColor3 = Color3.fromRGB(42, 42, 42) hfnbjp.Position = UDim2.new(0.0328332521, 0, 0.237947524, 0) hfnbjp.Size = UDim2.new(0, 454, 0, 50) hfnbjp.ZIndex = 3 hfnbjp.Font = Enum.Font.SourceSans hfnbjp.Text = "" hfnbjp.TextColor3 = Color3.fromRGB(0, 0, 0) hfnbjp.TextSize = 14.000 ghfnbj.Parent = hfnbjp qghfnb.Name = "\100\101\115\105\103\110" qghfnb.Parent = jpd_2 qghfnb.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qghfnb.Position = UDim2.new(0.0328332521, 0, 0.02321399, 0) qghfnb.Size = UDim2.new(0, 454, 0, 50) qghfnb.ZIndex = 3 qghfnb.Font = Enum.Font.SourceSans qghfnb.Text = "" qghfnb.TextColor3 = Color3.fromRGB(0, 0, 0) qghfnb.TextSize = 14.000 nb_43.Parent = qghfnb eoqghf.Name = "\100\101\115\105\103\110" eoqghf.Parent = jpd_2 eoqghf.BackgroundColor3 = Color3.fromRGB(42, 42, 42) eoqghf.Position = UDim2.new(0.0328332521, 0, 0.349232793, 0) eoqghf.Size = UDim2.new(0, 454, 0, 50) eoqghf.ZIndex = 3 eoqghf.Font = Enum.Font.SourceSans eoqghf.Text = "" eoqghf.TextColor3 = Color3.fromRGB(0, 0, 0) eoqghf.TextSize = 14.000 keoqgh.Parent = eoqghf ikeoqg.Name = "\100\101\115\105\103\110" ikeoqg.Parent = jpd_2 ikeoqg.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ikeoqg.Position = UDim2.new(0.0328332521, 0, 0.128229663, 0) ikeoqg.Size = UDim2.new(0, 454, 0, 50) ikeoqg.ZIndex = 3 ikeoqg.Font = Enum.Font.SourceSans ikeoqg.Text = "" ikeoqg.TextColor3 = Color3.fromRGB(0, 0, 0) ikeoqg.TextSize = 14.000 cikeoq.Parent = ikeoqg lcikeo.Name = "\100\101\115\105\103\110" lcikeo.Parent = jpd_2 lcikeo.BackgroundColor3 = Color3.fromRGB(42, 42, 42) lcikeo.Position = UDim2.new(0.0328332521, 0, 0.675251663, 0) lcikeo.Size = UDim2.new(0, 454, 0, 50) lcikeo.ZIndex = 3 lcikeo.Font = Enum.Font.SourceSans lcikeo.Text = "" lcikeo.TextColor3 = Color3.fromRGB(0, 0, 0) lcikeo.TextSize = 14.000 _lcike.Parent = lcikeo s_lcike.Name = "\100\101\115\105\103\110" s_lcike.Parent = jpd_2 s_lcike.BackgroundColor3 = Color3.fromRGB(42, 42, 42) s_lcike.Position = UDim2.new(0.0328332521, 0, 0.563966334, 0) s_lcike.Size = UDim2.new(0, 454, 0, 50) s_lcike.ZIndex = 3 s_lcike.Font = Enum.Font.SourceSans s_lcike.Text = "" s_lcike.TextColor3 = Color3.fromRGB(0, 0, 0) s_lcike.TextSize = 14.000 rs_lcik.Parent = s_lcike trs_lci.Name = "\100\101\115\105\103\110" trs_lci.Parent = jpd_2 trs_lci.BackgroundColor3 = Color3.fromRGB(42, 42, 42) trs_lci.Position = UDim2.new(0.0328332521, 0, 0.349232793, 0) trs_lci.Size = UDim2.new(0, 454, 0, 50) trs_lci.ZIndex = 3 trs_lci.Font = Enum.Font.SourceSans trs_lci.Text = "" trs_lci.TextColor3 = Color3.fromRGB(0, 0, 0) trs_lci.TextSize = 14.000 mtrs_lc.Parent = trs_lci qgh_13.Name = "\100\101\115\105\103\110" qgh_13.Parent = jpd_2 qgh_13.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qgh_13.Position = UDim2.new(0.0328332521, 0, 0.454248488, 0) qgh_13.Size = UDim2.new(0, 454, 0, 50) qgh_13.ZIndex = 3 qgh_13.Font = Enum.Font.SourceSans qgh_13.Text = "" qgh_13.TextColor3 = Color3.fromRGB(0, 0, 0) qgh_13.TextSize = 14.000 pdmtrs_.Parent = qgh_13 qgh_14.Name = "\100\101\115\105\103\110" qgh_14.Parent = jpd_2 qgh_14.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qgh_14.Position = UDim2.new(0.0328332521, 0, 0.786536872, 0) qgh_14.Size = UDim2.new(0, 454, 0, 50) qgh_14.ZIndex = 3 qgh_14.Font = Enum.Font.SourceSans qgh_14.Text = "" qgh_14.TextColor3 = Color3.fromRGB(0, 0, 0) qgh_14.TextSize = 14.000 bjpdmtr.Parent = qgh_14 qgh_15.Name = "\100\101\115\105\103\110" qgh_15.Parent = jpd_2 qgh_15.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qgh_15.Position = UDim2.new(0.0328332521, 0, 0.897822201, 0) qgh_15.Size = UDim2.new(0, 454, 0, 50) qgh_15.ZIndex = 3 qgh_15.Font = Enum.Font.SourceSans qgh_15.Text = "" qgh_15.TextColor3 = Color3.fromRGB(0, 0, 0) qgh_15.TextSize = 14.000 fnbjpdm.Parent = qgh_15 hfnbjpd.Name = "\67\111\108\108\101\115\101\117\109" hfnbjpd.Parent = jpd_2 hfnbjpd.BackgroundColor3 = Color3.fromRGB(24, 24, 24) hfnbjpd.Position = UDim2.new(0.0665657669, 0, 0.573382556, 0) hfnbjpd.Size = UDim2.new(0, 420, 0, 33) hfnbjpd.ZIndex = 5 hfnbjpd.AutoButtonColor = false hfnbjpd.Font = Enum.Font.SourceSansBold hfnbjpd.Text = "\67\111\108\108\101\115\101\117\109\32\45\45\32\68\101\112\101\110\100\105\110\103\32\79\110\32\65\114\101\97" hfnbjpd.TextColor3 = Color3.fromRGB(255, 255, 255) hfnbjpd.TextSize = 30.000 ghfnbjp.CornerRadius = UDim.new(0, 10) ghfnbjp.Parent = hfnbjpd qghfnbj.Name = "\80\117\99\99\105\84\80" qghfnbj.Parent = jpd_2 qghfnbj.BackgroundColor3 = Color3.fromRGB(24, 24, 24) qghfnbj.Position = UDim2.new(0.0665657669, 0, 0.250498533, 0) qghfnbj.Size = UDim2.new(0, 420, 0, 33) qghfnbj.ZIndex = 5 qghfnbj.AutoButtonColor = false qghfnbj.Font = Enum.Font.SourceSansBold qghfnbj.Text = "\80\117\99\99\105" qghfnbj.TextColor3 = Color3.fromRGB(255, 255, 255) qghfnbj.TextSize = 30.000 oqghfnb.CornerRadius = UDim.new(0, 10) oqghfnb.Parent = qghfnbj eoqghfn.Name = "\74\111\116\97\114\111\84\80" eoqghfn.Parent = jpd_2 eoqghfn.BackgroundColor3 = Color3.fromRGB(24, 24, 24) eoqghfn.Position = UDim2.new(0.0665657669, 0, 0.910373151, 0) eoqghfn.Size = UDim2.new(0, 420, 0, 33) eoqghfn.ZIndex = 5 eoqghfn.AutoButtonColor = false eoqghfn.Font = Enum.Font.SourceSansBold eoqghfn.Text = "\74\111\116\97\114\111" eoqghfn.TextColor3 = Color3.fromRGB(255, 255, 255) eoqghfn.TextSize = 30.000 keoqghf.CornerRadius = UDim.new(0, 10) keoqghf.Parent = eoqghfn ikeoqgh.Name = "\75\105\108\108\117\97\84\80" ikeoqgh.Parent = jpd_2 ikeoqgh.BackgroundColor3 = Color3.fromRGB(24, 24, 24) ikeoqgh.Position = UDim2.new(0.0665657669, 0, 0.466799468, 0) ikeoqgh.Size = UDim2.new(0, 420, 0, 33) ikeoqgh.ZIndex = 5 ikeoqgh.AutoButtonColor = false ikeoqgh.Font = Enum.Font.SourceSansBold ikeoqgh.Text = "\75\105\108\108\117\97" ikeoqgh.TextColor3 = Color3.fromRGB(255, 255, 255) ikeoqgh.TextSize = 30.000 cikeoqg.CornerRadius = UDim.new(0, 10) cikeoqg.Parent = ikeoqgh lcikeoq.Name = "\83\104\111\112\84\80" lcikeoq.Parent = jpd_2 lcikeoq.BackgroundColor3 = Color3.fromRGB(24, 24, 24) lcikeoq.Position = UDim2.new(0.0665657669, 0, 0.361783803, 0) lcikeoq.Size = UDim2.new(0, 420, 0, 33) lcikeoq.ZIndex = 5 lcikeoq.AutoButtonColor = false lcikeoq.Font = Enum.Font.SourceSansBold lcikeoq.Text = "\83\104\111\112\78\80\67" lcikeoq.TextColor3 = Color3.fromRGB(255, 255, 255) lcikeoq.TextSize = 30.000 _lcikeo.CornerRadius = UDim.new(0, 10) _lcikeo.Parent = lcikeoq s_lcikeo.Name = "\83\97\107\117\121\97\84\80" s_lcikeo.Parent = jpd_2 s_lcikeo.BackgroundColor3 = Color3.fromRGB(24, 24, 24) s_lcikeo.Position = UDim2.new(0.0665657669, 0, 0.0357649922, 0) s_lcikeo.Size = UDim2.new(0, 420, 0, 33) s_lcikeo.ZIndex = 5 s_lcikeo.AutoButtonColor = false s_lcikeo.Font = Enum.Font.SourceSansBold s_lcikeo.Text = "\83\97\107\117\121\97\32\45\45\32\78\111\116\32\65\108\119\97\121\115\32\83\112\97\119\110\101\100" s_lcikeo.TextColor3 = Color3.fromRGB(255, 255, 255) s_lcikeo.TextSize = 30.000 rs_lcike.CornerRadius = UDim.new(0, 10) rs_lcike.Parent = s_lcikeo trs_lcik.Name = "\85\109\98\114\97\84\80" trs_lcik.Parent = jpd_2 trs_lcik.BackgroundColor3 = Color3.fromRGB(24, 24, 24) trs_lcik.Position = UDim2.new(0.0665657669, 0, 0.140780658, 0) trs_lcik.Size = UDim2.new(0, 420, 0, 33) trs_lcik.ZIndex = 5 trs_lcik.AutoButtonColor = false trs_lcik.Font = Enum.Font.SourceSansBold trs_lcik.Text = "\85\109\98\114\97" trs_lcik.TextColor3 = Color3.fromRGB(255, 255, 255) trs_lcik.TextSize = 30.000 mtrs_lci.CornerRadius = UDim.new(0, 10) mtrs_lci.Parent = trs_lcik dmtrs_lc.Name = "\71\121\114\111" dmtrs_lc.Parent = jpd_2 dmtrs_lc.BackgroundColor3 = Color3.fromRGB(24, 24, 24) dmtrs_lc.Position = UDim2.new(0.0665657669, 0, 0.687802613, 0) dmtrs_lc.Size = UDim2.new(0, 420, 0, 33) dmtrs_lc.ZIndex = 5 dmtrs_lc.AutoButtonColor = false dmtrs_lc.Font = Enum.Font.SourceSansBold dmtrs_lc.Text = "\71\121\114\111\32\45\45\32\78\111\116\32\65\108\119\97\121\115\32\83\112\97\119\110\101\100" dmtrs_lc.TextColor3 = Color3.fromRGB(255, 255, 255) dmtrs_lc.TextSize = 30.000 nb_59.CornerRadius = UDim.new(0, 10) nb_59.Parent = dmtrs_lc jpdmtrs_.Name = "\81\117\101\115\116\78\80\67\84\80" jpdmtrs_.Parent = jpd_2 jpdmtrs_.BackgroundColor3 = Color3.fromRGB(24, 24, 24) jpdmtrs_.Position = UDim2.new(0.0665657669, 0, 0.799087882, 0) jpdmtrs_.Size = UDim2.new(0, 420, 0, 33) jpdmtrs_.ZIndex = 5 jpdmtrs_.AutoButtonColor = false jpdmtrs_.Font = Enum.Font.SourceSansBold jpdmtrs_.Text = "\68\97\105\108\121\81\117\101\115\116\78\80\67" jpdmtrs_.TextColor3 = Color3.fromRGB(255, 255, 255) jpdmtrs_.TextSize = 30.000 bjpdmtrs.CornerRadius = UDim.new(0, 10) bjpdmtrs.Parent = jpdmtrs_ nbjpdmtr.Name = "\76\111\99\97\108\80\108\97\121\101\114\70\114\97\109\101" nbjpdmtr.Parent = bj nbjpdmtr.Active = true nbjpdmtr.BackgroundColor3 = Color3.fromRGB(42, 42, 42) nbjpdmtr.Position = UDim2.new(0.0301418435, 0, 0.208280653, 0) nbjpdmtr.Size = UDim2.new(0, 528, 0, 319) fnbjpdmt.CornerRadius = UDim.new(0, 24) fnbjpdmt.Parent = nbjpdmtr hfnbjpdm.Name = "\109\97\105\110\115\99\114\111\108\108\101\114" hfnbjpdm.Parent = nbjpdmtr hfnbjpdm.Active = true hfnbjpdm.BackgroundColor3 = Color3.fromRGB(0, 0, 0) hfnbjpdm.BackgroundTransparency = 1.000 hfnbjpdm.BorderColor3 = Color3.fromRGB(24, 24, 24) hfnbjpdm.Position = UDim2.new(0.026515156, 0, 0.0501567423, 0) hfnbjpdm.Size = UDim2.new(0, 500, 0, 287) hfnbjpdm.ZIndex = 2 ghfnbjpd.Parent = hfnbjpdm qghfnbjp.Name = "\119\97\108\107\115\112\101\101\100\98\111\120" qghfnbjp.Parent = hfnbjpdm qghfnbjp.BackgroundColor3 = Color3.fromRGB(24, 24, 24) qghfnbjp.Position = UDim2.new(0.414000005, 0, 0.0336471796, 0) qghfnbjp.Size = UDim2.new(0, 200, 0, 35) qghfnbjp.ZIndex = 5 qghfnbjp.Font = Enum.Font.SourceSans qghfnbjp.PlaceholderColor3 = Color3.fromRGB(175, 175, 175) qghfnbjp.PlaceholderText = "\87\97\108\107\115\112\101\101\100" qghfnbjp.Text = "" qghfnbjp.TextColor3 = Color3.fromRGB(0, 0, 0) qghfnbjp.TextSize = 14.000 oqghfnbj.CornerRadius = UDim.new(0, 24) oqghfnbj.Parent = qghfnbjp eoqghfnb.Name = "\115\101\116\119\97\108\107\115\112\101\101\100" eoqghfnb.Parent = hfnbjpdm eoqghfnb.BackgroundColor3 = Color3.fromRGB(17, 68, 9) eoqghfnb.Position = UDim2.new(0.841560066, 0, 0.032691434, 0) eoqghfnb.Size = UDim2.new(0, 35, 0, 33) eoqghfnb.ZIndex = 7 eoqghfnb.Font = Enum.Font.SourceSans eoqghfnb.Text = "\226\156\147" eoqghfnb.TextColor3 = Color3.fromRGB(0, 0, 0) eoqghfnb.TextSize = 45.000 eoqghfnb.TextWrapped = true keoqghfn.CornerRadius = UDim.new(1, 0) keoqghfn.Parent = eoqghfnb ikeoqghf.Name = "\114\101\115\101\116\119\97\108\107\115\112\101\101\100" ikeoqghf.Parent = hfnbjpdm ikeoqghf.BackgroundColor3 = Color3.fromRGB(103, 0, 1) ikeoqghf.Position = UDim2.new(0.310000002, 0, 0.0350000001, 0) ikeoqghf.Size = UDim2.new(0, 35, 0, 33) ikeoqghf.ZIndex = 7 ikeoqghf.Font = Enum.Font.SourceSansBold ikeoqghf.Text = "\88" ikeoqghf.TextColor3 = Color3.fromRGB(0, 0, 0) ikeoqghf.TextSize = 30.000 ikeoqghf.TextWrapped = true cikeoqgh.CornerRadius = UDim.new(1, 0) cikeoqgh.Parent = ikeoqghf lcikeoqg.Name = "\106\117\109\112\112\111\119\101\114\98\111\120" lcikeoqg.Parent = hfnbjpdm lcikeoqg.BackgroundColor3 = Color3.fromRGB(24, 24, 24) lcikeoqg.Position = UDim2.new(0.414000005, 0, 0.138662845, 0) lcikeoqg.Size = UDim2.new(0, 200, 0, 35) lcikeoqg.ZIndex = 5 lcikeoqg.Font = Enum.Font.SourceSans lcikeoqg.PlaceholderColor3 = Color3.fromRGB(175, 175, 175) lcikeoqg.PlaceholderText = "\74\117\109\112\80\111\119\101\114" lcikeoqg.Text = "" lcikeoqg.TextColor3 = Color3.fromRGB(0, 0, 0) lcikeoqg.TextSize = 14.000 _lcikeoq.CornerRadius = UDim.new(0, 24) _lcikeoq.Parent = lcikeoqg s_lcikeoq.Name = "\115\101\116\106\117\109\112" s_lcikeoq.Parent = hfnbjpdm s_lcikeoq.BackgroundColor3 = Color3.fromRGB(17, 68, 9) s_lcikeoq.Position = UDim2.new(0.841560066, 0, 0.137707114, 0) s_lcikeoq.Size = UDim2.new(0, 35, 0, 33) s_lcikeoq.ZIndex = 7 s_lcikeoq.Font = Enum.Font.SourceSans s_lcikeoq.Text = "\226\156\147" s_lcikeoq.TextColor3 = Color3.fromRGB(0, 0, 0) s_lcikeoq.TextSize = 45.000 s_lcikeoq.TextWrapped = true rs_lcikeo.CornerRadius = UDim.new(1, 0) rs_lcikeo.Parent = s_lcikeoq trs_lcike.Name = "\114\101\115\101\116\106\117\109\112" trs_lcike.Parent = hfnbjpdm trs_lcike.BackgroundColor3 = Color3.fromRGB(103, 0, 1) trs_lcike.Position = UDim2.new(0.310000002, 0, 0.136880875, 0) trs_lcike.Size = UDim2.new(0, 35, 0, 33) trs_lcike.ZIndex = 7 trs_lcike.Font = Enum.Font.SourceSansBold trs_lcike.Text = "\88" trs_lcike.TextColor3 = Color3.fromRGB(0, 0, 0) trs_lcike.TextSize = 30.000 trs_lcike.TextWrapped = true mtrs_lcik.CornerRadius = UDim.new(1, 0) mtrs_lcik.Parent = trs_lcike dmtrs_lci.Name = "\74\117\109\112\80\111\119\101\114\76\97\98\101\108" dmtrs_lci.Parent = hfnbjpdm dmtrs_lci.BackgroundColor3 = Color3.fromRGB(42, 42, 42) dmtrs_lci.BackgroundTransparency = 1.000 dmtrs_lci.Position = UDim2.new(0.0145657659, 0, 0.140780672, 0) dmtrs_lci.Size = UDim2.new(0, 136, 0, 33) dmtrs_lci.ZIndex = 5 dmtrs_lci.AutoButtonColor = false dmtrs_lci.Font = Enum.Font.SourceSansBold dmtrs_lci.Text = "\74\117\109\112\80\111\119\101\114" dmtrs_lci.TextColor3 = Color3.fromRGB(255, 255, 255) dmtrs_lci.TextSize = 21.000 pdmtrs_lc.CornerRadius = UDim.new(0, 24) pdmtrs_lc.Parent = dmtrs_lci jpdmtrs_l.Name = "\87\97\108\107\115\112\101\101\100\76\97\98\101\108" jpdmtrs_l.Parent = hfnbjpdm jpdmtrs_l.BackgroundColor3 = Color3.fromRGB(42, 42, 42) jpdmtrs_l.BackgroundTransparency = 1.000 jpdmtrs_l.Position = UDim2.new(0.00856576487, 0, 0.0341976024, 0) jpdmtrs_l.Size = UDim2.new(0, 136, 0, 33) jpdmtrs_l.ZIndex = 5 jpdmtrs_l.AutoButtonColor = false jpdmtrs_l.Font = Enum.Font.SourceSansBold jpdmtrs_l.Text = "\87\97\108\107\115\112\101\101\100" jpdmtrs_l.TextColor3 = Color3.fromRGB(255, 255, 255) jpdmtrs_l.TextSize = 21.000 bjpdmtrs_.CornerRadius = UDim.new(0, 24) bjpdmtrs_.Parent = jpdmtrs_l nbjpdmtrs.Name = "\100\101\115\105\103\110" nbjpdmtrs.Parent = hfnbjpdm nbjpdmtrs.BackgroundColor3 = Color3.fromRGB(42, 42, 42) nbjpdmtrs.Position = UDim2.new(0.0328332521, 0, 0.237947524, 0) nbjpdmtrs.Size = UDim2.new(0, 454, 0, 50) nbjpdmtrs.ZIndex = 3 nbjpdmtrs.Font = Enum.Font.SourceSans nbjpdmtrs.Text = "" nbjpdmtrs.TextColor3 = Color3.fromRGB(0, 0, 0) nbjpdmtrs.TextSize = 14.000 fnbjpdmtr.Parent = nbjpdmtrs qgh_17.Name = "\100\101\115\105\103\110" qgh_17.Parent = hfnbjpdm qgh_17.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qgh_17.Position = UDim2.new(0.0328332521, 0, 0.02321399, 0) qgh_17.Size = UDim2.new(0, 454, 0, 50) qgh_17.ZIndex = 3 qgh_17.Font = Enum.Font.SourceSans qgh_17.Text = "" qgh_17.TextColor3 = Color3.fromRGB(0, 0, 0) qgh_17.TextSize = 14.000 ghfnbjpdm.Parent = qgh_17 qgh_18.Name = "\100\101\115\105\103\110" qgh_18.Parent = hfnbjpdm qgh_18.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qgh_18.Position = UDim2.new(0.0328332521, 0, 0.349232793, 0) qgh_18.Size = UDim2.new(0, 454, 0, 50) qgh_18.ZIndex = 3 qgh_18.Font = Enum.Font.SourceSans qgh_18.Text = "" qgh_18.TextColor3 = Color3.fromRGB(0, 0, 0) qgh_18.TextSize = 14.000 oqghfnbjp.Parent = qgh_18 eoqghfnbj.Name = "\100\101\115\105\103\110" eoqghfnbj.Parent = hfnbjpdm eoqghfnbj.BackgroundColor3 = Color3.fromRGB(42, 42, 42) eoqghfnbj.Position = UDim2.new(0.0328332521, 0, 0.128229663, 0) eoqghfnbj.Size = UDim2.new(0, 454, 0, 50) eoqghfnbj.ZIndex = 3 eoqghfnbj.Font = Enum.Font.SourceSans eoqghfnbj.Text = "" eoqghfnbj.TextColor3 = Color3.fromRGB(0, 0, 0) eoqghfnbj.TextSize = 14.000 keoqghfnb.Parent = eoqghfnbj ikeoqghfn.Name = "\102\108\121\98\117\116\116\111\110" ikeoqghfn.Parent = hfnbjpdm ikeoqghfn.BackgroundColor3 = Color3.fromRGB(24, 24, 24) ikeoqghfn.Position = UDim2.new(0.0620000064, 0, 0.249216288, 0) ikeoqghfn.Size = UDim2.new(0, 150, 0, 35) ikeoqghfn.ZIndex = 8 ikeoqghfn.Selected = true ikeoqghfn.Font = Enum.Font.SourceSansBold ikeoqghfn.Text = "\70\76\89" ikeoqghfn.TextColor3 = Color3.fromRGB(175, 175, 175) ikeoqghfn.TextSize = 30.000 cikeoqghf.CornerRadius = UDim.new(0, 24) cikeoqghf.Parent = ikeoqghfn lcikeoqgh.Name = "\102\108\121\108\97\98\101\108" lcikeoqgh.Parent = hfnbjpdm lcikeoqgh.BackgroundColor3 = Color3.fromRGB(255, 255, 255) lcikeoqgh.BackgroundTransparency = 1.000 lcikeoqgh.Position = UDim2.new(0.451999992, 0, 0.23667711, 0) lcikeoqgh.Size = UDim2.new(0, 200, 0, 50) lcikeoqgh.ZIndex = 10 lcikeoqgh.Font = Enum.Font.SourceSansBold lcikeoqgh.Text = "\69\32\116\111\32\69\110\97\98\108\101\47\68\105\115\97\98\108\101" lcikeoqgh.TextColor3 = Color3.fromRGB(255, 255, 255) lcikeoqgh.TextSize = 24.000 _lcikeoqg.Name = "\98\97\99\107\103\114\111\117\110\100" _lcikeoqg.Parent = nbjpdmtr _lcikeoqg.Active = true _lcikeoqg.BackgroundColor3 = Color3.fromRGB(24, 24, 24) _lcikeoqg.Position = UDim2.new(0.0303030312, 0, 0.0501567386, 0) _lcikeoqg.Size = UDim2.new(0, 500, 0, 287) _lcikeoqg.Font = Enum.Font.SourceSans _lcikeoqg.Text = "" _lcikeoqg.TextColor3 = Color3.fromRGB(0, 0, 0) _lcikeoqg.TextSize = 14.000 s_lcikeoqg.Parent = _lcikeoqg rs_lcikeoq.Name = "\67\114\101\100\105\116\115\70\114\97\109\101" rs_lcikeoq.Parent = bj rs_lcikeoq.Active = true rs_lcikeoq.BackgroundColor3 = Color3.fromRGB(42, 42, 42) rs_lcikeoq.Position = UDim2.new(0.0301418435, 0, 0.208280653, 0) rs_lcikeoq.Size = UDim2.new(0, 528, 0, 319) rs_lcikeoq.Visible = false trs_lcikeo.CornerRadius = UDim.new(0, 24) trs_lcikeo.Parent = rs_lcikeoq mtrs_lcike.Name = "\85\73\100\101\115\105\103\110" mtrs_lcike.Parent = rs_lcikeoq mtrs_lcike.BackgroundColor3 = Color3.fromRGB(42, 42, 42) mtrs_lcike.BackgroundTransparency = 1.000 mtrs_lcike.Position = UDim2.new(0.151515141, 0, 0.158022016, 0) mtrs_lcike.Size = UDim2.new(0, 269, 0, 33) mtrs_lcike.ZIndex = 5 mtrs_lcike.AutoButtonColor = false mtrs_lcike.Font = Enum.Font.SourceSansBold mtrs_lcike.Text = "\32\85\73\32\68\101\115\105\103\110\32\45\32\77\97\116\95\68\101\118\118\35\54\54\54\54" mtrs_lcike.TextColor3 = Color3.fromRGB(255, 255, 255) mtrs_lcike.TextScaled = true mtrs_lcike.TextSize = 27.000 mtrs_lcike.TextWrapped = true dmtrs_lcik.CornerRadius = UDim.new(0, 24) dmtrs_lcik.Parent = mtrs_lcike pdmtrs_lci.Name = "\67\111\111\108\101\115\116\32\80\108\97\121\101\114" pdmtrs_lci.Parent = rs_lcikeoq pdmtrs_lci.BackgroundColor3 = Color3.fromRGB(42, 42, 42) pdmtrs_lci.BackgroundTransparency = 1.000 pdmtrs_lci.Position = UDim2.new(0.162924215, 0, 0.759902894, 0) pdmtrs_lci.Size = UDim2.new(0, 418, 0, 33) pdmtrs_lci.ZIndex = 5 pdmtrs_lci.AutoButtonColor = false pdmtrs_lci.Font = Enum.Font.SourceSansBold pdmtrs_lci.Text = "\35\49\32\84\105\116\97\110\72\117\98\32\85\115\101\114\58" pdmtrs_lci.TextColor3 = Color3.fromRGB(255, 255, 255) pdmtrs_lci.TextSize = 27.000 pdmtrs_lci.TextWrapped = true pdmtrs_lci.TextXAlignment = Enum.TextXAlignment.Left jpdmtrs_lc.CornerRadius = UDim.new(0, 24) jpdmtrs_lc.Parent = pdmtrs_lci bjpdmtrs_l.Name = "\83\99\114\105\112\116\105\110\103" bjpdmtrs_l.Parent = rs_lcikeoq bjpdmtrs_l.BackgroundColor3 = Color3.fromRGB(42, 42, 42) bjpdmtrs_l.BackgroundTransparency = 1.000 bjpdmtrs_l.Position = UDim2.new(0.151515141, 0, 0.352379382, 0) bjpdmtrs_l.Size = UDim2.new(0, 269, 0, 33) bjpdmtrs_l.ZIndex = 5 bjpdmtrs_l.AutoButtonColor = false bjpdmtrs_l.Font = Enum.Font.SourceSansBold bjpdmtrs_l.Text = "\83\99\114\105\112\116\105\110\103\32\45\32\77\97\116\95\68\101\118\118\35\54\54\54\54" bjpdmtrs_l.TextColor3 = Color3.fromRGB(255, 255, 255) bjpdmtrs_l.TextScaled = true bjpdmtrs_l.TextSize = 27.000 bjpdmtrs_l.TextWrapped = true nbjpdmtrs_.CornerRadius = UDim.new(0, 24) nbjpdmtrs_.Parent = bjpdmtrs_l fnbjpdmtrs.Name = "\68\105\115\99\111\114\100" fnbjpdmtrs.Parent = rs_lcikeoq fnbjpdmtrs.BackgroundColor3 = Color3.fromRGB(42, 42, 42) fnbjpdmtrs.BackgroundTransparency = 1.000 fnbjpdmtrs.Position = UDim2.new(0.162924215, 0, 0.556141198, 0) fnbjpdmtrs.Size = UDim2.new(0, 318, 0, 33) fnbjpdmtrs.ZIndex = 5 fnbjpdmtrs.AutoButtonColor = false fnbjpdmtrs.Font = Enum.Font.SourceSansBold fnbjpdmtrs.Text = "\68\105\115\99\111\114\100\58\32\100\105\115\99\111\114\100\46\103\103\47\103\53\65\56\102\118\88\115\75\71" fnbjpdmtrs.TextColor3 = Color3.fromRGB(255, 255, 255) fnbjpdmtrs.TextSize = 27.000 fnbjpdmtrs.TextWrapped = true hfnbjpdmtr.CornerRadius = UDim.new(0, 24) hfnbjpdmtr.Parent = fnbjpdmtrs ghfnbjpdmt.Name = "\100\111\116" ghfnbjpdmt.Parent = rs_lcikeoq ghfnbjpdmt.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ghfnbjpdmt.BackgroundTransparency = 1.000 ghfnbjpdmt.Position = UDim2.new(0.107999973, 0, 0.502849579, 0) ghfnbjpdmt.Size = UDim2.new(0, 418, 0, 33) ghfnbjpdmt.ZIndex = 5 ghfnbjpdmt.AutoButtonColor = false ghfnbjpdmt.Font = Enum.Font.SourceSansBold ghfnbjpdmt.Text = "\46" ghfnbjpdmt.TextColor3 = Color3.fromRGB(255, 255, 255) ghfnbjpdmt.TextSize = 80.000 ghfnbjpdmt.TextWrapped = true ghfnbjpdmt.TextXAlignment = Enum.TextXAlignment.Left qghfnbjpdm.CornerRadius = UDim.new(0, 24) qghfnbjpdm.Parent = ghfnbjpdmt oqghfnbjpd.Name = "\100\111\116" oqghfnbjpd.Parent = rs_lcikeoq oqghfnbjpd.BackgroundColor3 = Color3.fromRGB(42, 42, 42) oqghfnbjpd.BackgroundTransparency = 1.000 oqghfnbjpd.Position = UDim2.new(0.107999973, 0, 0.703476548, 0) oqghfnbjpd.Size = UDim2.new(0, 418, 0, 33) oqghfnbjpd.ZIndex = 5 oqghfnbjpd.AutoButtonColor = false oqghfnbjpd.Font = Enum.Font.SourceSansBold oqghfnbjpd.Text = "\46" oqghfnbjpd.TextColor3 = Color3.fromRGB(255, 255, 255) oqghfnbjpd.TextSize = 80.000 oqghfnbjpd.TextWrapped = true oqghfnbjpd.TextXAlignment = Enum.TextXAlignment.Left eoqghfnbjp.CornerRadius = UDim.new(0, 24) eoqghfnbjp.Parent = oqghfnbjpd keoqghfnbj.Name = "\100\111\116" keoqghfnbj.Parent = rs_lcikeoq keoqghfnbj.BackgroundColor3 = Color3.fromRGB(42, 42, 42) keoqghfnbj.BackgroundTransparency = 1.000 keoqghfnbj.Position = UDim2.new(0.107999973, 0, 0.10159567, 0) keoqghfnbj.Size = UDim2.new(0, 418, 0, 33) keoqghfnbj.ZIndex = 5 keoqghfnbj.AutoButtonColor = false keoqghfnbj.Font = Enum.Font.SourceSansBold keoqghfnbj.Text = "\46" keoqghfnbj.TextColor3 = Color3.fromRGB(255, 255, 255) keoqghfnbj.TextSize = 80.000 keoqghfnbj.TextWrapped = true keoqghfnbj.TextXAlignment = Enum.TextXAlignment.Left ikeoqghfnb.CornerRadius = UDim.new(0, 24) ikeoqghfnb.Parent = keoqghfnbj ghfnbjpdmt_4.Name = "\100\111\116" ghfnbjpdmt_4.Parent = rs_lcikeoq ghfnbjpdmt_4.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ghfnbjpdmt_4.BackgroundTransparency = 1.000 ghfnbjpdmt_4.Position = UDim2.new(0.107999973, 0, 0.289683461, 0) ghfnbjpdmt_4.Size = UDim2.new(0, 418, 0, 39) ghfnbjpdmt_4.ZIndex = 10 ghfnbjpdmt_4.AutoButtonColor = false ghfnbjpdmt_4.Font = Enum.Font.SourceSansBold ghfnbjpdmt_4.Text = "\46" ghfnbjpdmt_4.TextColor3 = Color3.fromRGB(255, 255, 255) ghfnbjpdmt_4.TextSize = 80.000 ghfnbjpdmt_4.TextWrapped = true ghfnbjpdmt_4.TextXAlignment = Enum.TextXAlignment.Left lcikeoqghf.CornerRadius = UDim.new(0, 24) lcikeoqghf.Parent = ghfnbjpdmt_4 _lcikeoqgh.Parent = bj _lcikeoqgh.BackgroundColor3 = Color3.fromRGB(255, 255, 255) _lcikeoqgh.BackgroundTransparency = 1.000 _lcikeoqgh.Position = UDim2.new(-0.0656028315, 0, -0.0314931273, 0) _lcikeoqgh.Size = UDim2.new(0, 124, 0, 61) _lcikeoqgh.Image = "\114\98\120\97\115\115\101\116\105\100\58\47\47\56\50\56\52\56\49\56\54\50\57" _lcikeoqgh.ImageColor3 = Color3.fromRGB(117, 117, 117) local function MEJRCNT_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', qg) local pdmtrs_lcik = s_lcikeoqghf.Parent.Parent.LocalPlayerFrame local jpdmtrs_lci = s_lcikeoqghf.Parent.Parent.FarmFrame local bjpdmtrs_lc = s_lcikeoqghf.Parent.Parent.CreditsFrame local nbjpdmtrs_l = s_lcikeoqghf.Parent.Parent.MiscFrame local fnbjpdmtrs_ = s_lcikeoqghf.Parent.Parent.TPFrame local hfnbjpdmtrs = s_lcikeoqghf.Parent.Parent.MiscTab local ghfnbjpdmtr = s_lcikeoqghf.Parent.Parent.secondtab local qghfnbjpdmt = s_lcikeoqghf.Parent.Parent.TpTab local oqghfnbjpdm = s_lcikeoqghf.Parent.Parent.PlayerTab local eo = s_lcikeoqghf.Parent.Parent.CreditsTab s_lcikeoqghf.Parent.MouseButton1Down:Connect(function() nbjpdmtrs_l.Visible = false jpdmtrs_lci.Visible = false bjpdmtrs_lc.Visible = false pdmtrs_lcik.Visible = true fnbjpdmtrs_.Visible = false hfnbjpdmtrs.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ghfnbjpdmtr.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qghfnbjpdmt.BackgroundColor3 = Color3.fromRGB(42, 42, 42) oqghfnbjpdm.BackgroundColor3 = Color3.fromRGB(65, 65, 65) eo.BackgroundColor3 = Color3.fromRGB(42, 42, 42) end) end coroutine.wrap(MEJRCNT_fake_s_lcikeoqghf)() local function UOAB_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', ghfnbjpdmtr) local pdmtrs_lcik = s_lcikeoqghf.Parent.Parent.LocalPlayerFrame local jpdmtrs_lci = s_lcikeoqghf.Parent.Parent.FarmFrame local bjpdmtrs_lc = s_lcikeoqghf.Parent.Parent.CreditsFrame local nbjpdmtrs_l = s_lcikeoqghf.Parent.Parent.MiscFrame local fnbjpdmtrs_ = s_lcikeoqghf.Parent.Parent.TPFrame local hfnbjpdmtrs = s_lcikeoqghf.Parent.Parent.MiscTab local ghfnbjpdmtr = s_lcikeoqghf.Parent.Parent.secondtab local qghfnbjpdmt = s_lcikeoqghf.Parent.Parent.TpTab local oqghfnbjpdm = s_lcikeoqghf.Parent.Parent.PlayerTab local eo = s_lcikeoqghf.Parent.Parent.CreditsTab s_lcikeoqghf.Parent.MouseButton1Down:Connect(function() nbjpdmtrs_l.Visible = false jpdmtrs_lci.Visible = true bjpdmtrs_lc.Visible = false pdmtrs_lcik.Visible = false fnbjpdmtrs_.Visible = false hfnbjpdmtrs.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ghfnbjpdmtr.BackgroundColor3 = Color3.fromRGB(65, 65, 65) qghfnbjpdmt.BackgroundColor3 = Color3.fromRGB(42, 42, 42) oqghfnbjpdm.BackgroundColor3 = Color3.fromRGB(42, 42, 42) eo.BackgroundColor3 = Color3.fromRGB(42, 42, 42) end) end coroutine.wrap(UOAB_fake_s_lcikeoqghf)() local function t()  local s_lcikeoqghf = Instance.new('LocalScript', ik) local pdmtrs_lcik = s_lcikeoqghf.Parent.Parent.LocalPlayerFrame local jpdmtrs_lci = s_lcikeoqghf.Parent.Parent.FarmFrame local bjpdmtrs_lc = s_lcikeoqghf.Parent.Parent.CreditsFrame local nbjpdmtrs_l = s_lcikeoqghf.Parent.Parent.MiscFrame local fnbjpdmtrs_ = s_lcikeoqghf.Parent.Parent.TPFrame local hfnbjpdmtrs = s_lcikeoqghf.Parent.Parent.MiscTab local ghfnbjpdmtr = s_lcikeoqghf.Parent.Parent.secondtab local qghfnbjpdmt = s_lcikeoqghf.Parent.Parent.TpTab local oqghfnbjpdm = s_lcikeoqghf.Parent.Parent.PlayerTab local eo = s_lcikeoqghf.Parent.Parent.CreditsTab s_lcikeoqghf.Parent.MouseButton1Down:Connect(function() nbjpdmtrs_l.Visible = false jpdmtrs_lci.Visible = false bjpdmtrs_lc.Visible = false pdmtrs_lcik.Visible = false fnbjpdmtrs_.Visible = true hfnbjpdmtrs.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ghfnbjpdmtr.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qghfnbjpdmt.BackgroundColor3 = Color3.fromRGB(65, 65, 65) oqghfnbjpdm.BackgroundColor3 = Color3.fromRGB(42, 42, 42) eo.BackgroundColor3 = Color3.fromRGB(42, 42, 42) end) end coroutine.wrap(t)() local function m()  local s_lcikeoqghf = Instance.new('LocalScript', lc) local pdmtrs_lcik = s_lcikeoqghf.Parent.Parent.LocalPlayerFrame local jpdmtrs_lci = s_lcikeoqghf.Parent.Parent.FarmFrame local bjpdmtrs_lc = s_lcikeoqghf.Parent.Parent.CreditsFrame local nbjpdmtrs_l = s_lcikeoqghf.Parent.Parent.MiscFrame local fnbjpdmtrs_ = s_lcikeoqghf.Parent.Parent.TPFrame local hfnbjpdmtrs = s_lcikeoqghf.Parent.Parent.MiscTab local ghfnbjpdmtr = s_lcikeoqghf.Parent.Parent.secondtab local qghfnbjpdmt = s_lcikeoqghf.Parent.Parent.TpTab local oqghfnbjpdm = s_lcikeoqghf.Parent.Parent.PlayerTab local eo = s_lcikeoqghf.Parent.Parent.CreditsTab s_lcikeoqghf.Parent.MouseButton1Down:Connect(function() nbjpdmtrs_l.Visible = true jpdmtrs_lci.Visible = false bjpdmtrs_lc.Visible = false pdmtrs_lcik.Visible = false fnbjpdmtrs_.Visible = false hfnbjpdmtrs.BackgroundColor3 = Color3.fromRGB(65, 65, 65) ghfnbjpdmtr.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qghfnbjpdmt.BackgroundColor3 = Color3.fromRGB(42, 42, 42) oqghfnbjpdm.BackgroundColor3 = Color3.fromRGB(42, 42, 42) eo.BackgroundColor3 = Color3.fromRGB(42, 42, 42) end) end coroutine.wrap(m)() local function ZTZUIY_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', s_l) local pdmtrs_lcik = s_lcikeoqghf.Parent.Parent.LocalPlayerFrame local jpdmtrs_lci = s_lcikeoqghf.Parent.Parent.FarmFrame local bjpdmtrs_lc = s_lcikeoqghf.Parent.Parent.CreditsFrame local nbjpdmtrs_l = s_lcikeoqghf.Parent.Parent.MiscFrame local fnbjpdmtrs_ = s_lcikeoqghf.Parent.Parent.TPFrame local hfnbjpdmtrs = s_lcikeoqghf.Parent.Parent.MiscTab local ghfnbjpdmtr = s_lcikeoqghf.Parent.Parent.secondtab local qghfnbjpdmt = s_lcikeoqghf.Parent.Parent.TpTab local oqghfnbjpdm = s_lcikeoqghf.Parent.Parent.PlayerTab local eo = s_lcikeoqghf.Parent.Parent.CreditsTab s_lcikeoqghf.Parent.MouseButton1Down:Connect(function() nbjpdmtrs_l.Visible = false jpdmtrs_lci.Visible = false bjpdmtrs_lc.Visible = true pdmtrs_lcik.Visible = false fnbjpdmtrs_.Visible = false hfnbjpdmtrs.BackgroundColor3 = Color3.fromRGB(42, 42, 42) ghfnbjpdmtr.BackgroundColor3 = Color3.fromRGB(42, 42, 42) qghfnbjpdmt.BackgroundColor3 = Color3.fromRGB(42, 42, 42) oqghfnbjpdm.BackgroundColor3 = Color3.fromRGB(42, 42, 42) eo.BackgroundColor3 = Color3.fromRGB(65, 65,65) end) end coroutine.wrap(ZTZUIY_fake_s_lcikeoqghf)() local function MNWIFDD_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', trs_) local _lcikeoqghf = s_lcikeoqghf.Parent local cikeoqghfnb = game.Players.LocalPlayer _lcikeoqghf.MouseButton1Down:Connect(function() wait(1) cikeoqghfnb:Kick("\89\111\117\32\72\97\118\101\32\66\101\101\110\32\66\97\110\110\101\100\32\70\114\111\109\32\65\32\85\110\105\118\101\114\115\97\108\32\84\105\109\101\58\32\57\57\57\57\57\57\57\57\57\57\57\57\57\57\32\68\97\121\115\46") end) end coroutine.wrap(MNWIFDD_fake_s_lcikeoqghf)() local function j()  local s_lcikeoqghf = Instance.new('LocalScript', dmtr) local s_lcikeoqgh = s_lcikeoqghf.Parent local ikeoqghfnbj = s_lcikeoqghf.Parent.Parent:FindFirstChild("\98\117\116\116\111\110\115\111\117\110\100\115\111\102\102") s_lcikeoqgh.MouseButton1Down:Connect(function() s_lcikeoqgh.TextColor3 = Color3.fromRGB(17, 68, 9) ikeoqghfnbj.TextColor3 = Color3.fromRGB(255, 255, 255) end) ikeoqghfnbj.MouseButton1Down:Connect(function() ikeoqghfnbj.TextColor3 = Color3.fromRGB(149, 0, 2) s_lcikeoqgh.TextColor3 = Color3.fromRGB(255, 255, 255) end) end coroutine.wrap(j)() local function PEYF_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', nbjp) local _lcikeoqghf = s_lcikeoqghf.Parent local mtrs_lcikeo = s_lcikeoqghf.Parent.Parent.Parent.Parent.Parent _lcikeoqghf.MouseButton1Down:Connect(function() _lcikeoqghf.Text = "\68\101\115\116\114\111\121\105\110\103\32\85\73\33" wait(1.5) mtrs_lcikeo:Destroy() end) end coroutine.wrap(PEYF_fake_s_lcikeoqghf)() local function n()  local s_lcikeoqghf = Instance.new('LocalScript', lcike) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:connect(function() _G.ChestFarm = false if _G.ChestFarm == true then repeat wait(0.5) for i, v in pairs(game:GetService("\87\111\114\107\115\112\97\99\101").ItemSpawns.Chests:GetDescendants()) do  if v.Name == "\82\111\111\116\80\97\114\116" then print("\111\107\108\101\115\103\111") local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = v.CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik wait(10) fireproximityprompt(v.ProximityAttachment.Interaction) end end until _G.ChestFarm == false end end) end coroutine.wrap(n)() local function f()  local s_lcikeoqghf = Instance.new('LocalScript', s_lcik) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:connect(function() _G.ChestFarm = true if _G.ChestFarm == true then repeat wait(0.5) for i, v in pairs(game:GetService("\87\111\114\107\115\112\97\99\101").ItemSpawns.Chests:GetDescendants()) do  if v.Name == "\82\111\111\116\80\97\114\116" then print("\111\107\108\101\115\103\111") local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = v.CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik wait(10) fireproximityprompt(v.ProximityAttachment.Interaction) end end until _G.ChestFarm == false end end) end coroutine.wrap(f)() local function h()  local s_lcikeoqghf = Instance.new('LocalScript', hfnb) local keoqghfnbjp = s_lcikeoqghf.Parent.OffButtonMeteor local ikeoqghfnbj = s_lcikeoqghf.Parent.OffButtonChest local cikeoqghfnbj = s_lcikeoqghf.Parent.OffButtonDebris local lcikeoqghfn = s_lcikeoqghf.Parent.OffButtonOtherItems local _lcikeoqghfn = s_lcikeoqghf.Parent.OnButtonMeteor local s_lcikeoqgh = s_lcikeoqghf.Parent.OnButtonChest local rs_lcikeoqg = s_lcikeoqghf.Parent.OnButtonDebris local trs_lcikeoq = s_lcikeoqghf.Parent.OnButtonOtherItems keoqghfnbjp.MouseButton1Down:Connect(function() keoqghfnbjp.TextColor3 = Color3.fromRGB(149, 0, 2) _lcikeoqghfn.TextColor3 = Color3.fromRGB(255, 255, 255) end) ikeoqghfnbj.MouseButton1Down:Connect(function() ikeoqghfnbj.TextColor3 = Color3.fromRGB(149, 0, 2) s_lcikeoqgh.TextColor3 = Color3.fromRGB(255, 255, 255) end) cikeoqghfnbj.MouseButton1Down:Connect(function() cikeoqghfnbj.TextColor3 = Color3.fromRGB(149, 0, 2) rs_lcikeoqg.TextColor3 = Color3.fromRGB(255, 255, 255) end) lcikeoqghfn.MouseButton1Down:Connect(function() lcikeoqghfn.TextColor3 = Color3.fromRGB(149, 0, 2) trs_lcikeoq.TextColor3 = Color3.fromRGB(255, 255, 255) end) _lcikeoqghfn.MouseButton1Down:Connect(function() _lcikeoqghfn.TextColor3 = Color3.fromRGB(17, 68, 9) keoqghfnbjp.TextColor3 = Color3.fromRGB(255, 255, 255) end) s_lcikeoqgh.MouseButton1Down:Connect(function() s_lcikeoqgh.TextColor3 = Color3.fromRGB(17, 68, 9) ikeoqghfnbj.TextColor3 = Color3.fromRGB(255, 255, 255) end) rs_lcikeoqg.MouseButton1Down:Connect(function() rs_lcikeoqg.TextColor3 = Color3.fromRGB(17, 68, 9) cikeoqghfnbj.TextColor3 = Color3.fromRGB(255, 255, 255) end) trs_lcikeoq.MouseButton1Down:Connect(function() trs_lcikeoq.TextColor3 = Color3.fromRGB(17, 68, 9) lcikeoqghfn.TextColor3 = Color3.fromRGB(255, 255, 255) end) end coroutine.wrap(h)() local function EYUSO_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', hfnbjpd) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = game:GetService("\87\111\114\107\115\112\97\99\101").Map.Layout.Collisions.Colosseum.MeshPart.CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik end) end coroutine.wrap(EYUSO_fake_s_lcikeoqghf)() local function q()  local s_lcikeoqghf = Instance.new('LocalScript', qghfnbj) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = game:GetService("\87\111\114\107\115\112\97\99\101").NPCS["\69\110\114\105\99\111\32\80\117\99\99\105"].Model["\77\101\115\104\101\115\47\97\104\95\80\108\97\110\101\46\48\48\49\32\40\49\57\41"].CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik end) end coroutine.wrap(q)() local function XXTO_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', eoqghfn) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = game:GetService("\87\111\114\107\115\112\97\99\101").NPCS["\74\111\116\97\114\111\32\75\117\106\111"].Head.CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik end) end coroutine.wrap(XXTO_fake_s_lcikeoqghf)() local function CATRYI_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', ikeoqgh) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = game:GetService("\87\111\114\107\115\112\97\99\101").NPCS.Killua.Head.CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik end) end coroutine.wrap(CATRYI_fake_s_lcikeoqghf)() local function k()  local s_lcikeoqghf = Instance.new('LocalScript', lcikeoq) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = game:GetService("\87\111\114\107\115\112\97\99\101").NPCS.ShopNPC.Head.CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik end) end coroutine.wrap(k)() local function MAWUKWW_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', s_lcikeo) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = game:GetService("\87\111\114\107\115\112\97\99\101").NPCS.Sakuya:FindFirstChild("\48").CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik end) end coroutine.wrap(MAWUKWW_fake_s_lcikeoqghf)() local function VIQATW_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', trs_lcik) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = game:GetService("\87\111\114\107\115\112\97\99\101").NPCS.Umbra.Head.CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik end) end coroutine.wrap(VIQATW_fake_s_lcikeoqghf)() local function FFKDE_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', dmtrs_lc) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = game:GetService("\87\111\114\107\115\112\97\99\101").NPCS.Gyro["\104\101\97\100\32\50"].CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik end) end coroutine.wrap(FFKDE_fake_s_lcikeoqghf)() local function _()  local s_lcikeoqghf = Instance.new('LocalScript', jpdmtrs_) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() local pdmtrs_lcike = game.Players.LocalPlayer.Character.HumanoidRootPart local jpdmtrs_lcik = game:GetService("\87\111\114\107\115\112\97\99\101").NPCS["\68\97\105\108\121\32\81\117\101\115\116\32\78\80\67"].Head.CFrame local bjpdmtrs_lci = game.Players.LocalPlayer.Character.Humanoid bjpdmtrs_lci:ChangeState(Enum.HumanoidStateType.Jumping) wait(0.1) pdmtrs_lcike.CFrame = jpdmtrs_lcik end) end coroutine.wrap(_)() local function PKRVHH_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', eoqghfnb) local _lcikeoqghf = s_lcikeoqghf.Parent local keoqghfnbjpd = s_lcikeoqghf.Parent.Parent:FindFirstChild("\119\97\108\107\115\112\101\101\100\98\111\120") _lcikeoqghf.MouseButton1Down:Connect(function() game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = keoqghfnbjpd.Text end) end coroutine.wrap(PKRVHH_fake_s_lcikeoqghf)() local function ZIYV_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', ikeoqghf) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16 end) end coroutine.wrap(ZIYV_fake_s_lcikeoqghf)() local function NWWMINM_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', s_lcikeoq) local _lcikeoqghf = s_lcikeoqghf.Parent local keoqghfnbjpd = s_lcikeoqghf.Parent.Parent:FindFirstChild("\106\117\109\112\112\111\119\101\114\98\111\120") _lcikeoqghf.MouseButton1Down:Connect(function() game.Players.LocalPlayer.Character.Humanoid.JumpHeight = keoqghfnbjpd.Text end) end coroutine.wrap(NWWMINM_fake_s_lcikeoqghf)() local function AZOCUC_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', trs_lcike) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() game.Players.LocalPlayer.Character.Humanoid.JumpHeight = 7.2 end) end coroutine.wrap(AZOCUC_fake_s_lcikeoqghf)() local function TTGEQM_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', ikeoqghfn) local _lcikeoqghf = s_lcikeoqghf.Parent _lcikeoqghf.MouseButton1Down:Connect(function() loadstring(game:HttpGet(('https://raw.githubusercontent.com/MatDevv/Flymaybe/main/FlyMaybe'),true))() end) end coroutine.wrap(TTGEQM_fake_s_lcikeoqghf)() local function COBA_fake_s_lcikeoqghf()  local s_lcikeoqghf = Instance.new('LocalScript', pdmtrs_lci) local rs_lcikeoqgh = game.Players.LocalPlayer.Name s_lcikeoqghf.Parent.Text = "\35\49\32\84\105\116\97\110\72\117\98\32\85\115\101\114\58\32\32".. rs_lcikeoqgh end coroutine.wrap(COBA_fake_s_lcikeoqghf)() 
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local TitanHubAut = Instance.new("ScreenGui")
+local AUT = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local secondary = Instance.new("Frame")
+local UICorner_2 = Instance.new("UICorner")
+local TitanHub = Instance.new("TextLabel")
+local PlayerTab = Instance.new("TextButton")
+local UICorner_3 = Instance.new("UICorner")
+local secondtab = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local TpTab = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local MiscTab = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local CreditsTab = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local MiscFrame = Instance.new("Frame")
+local UICorner_8 = Instance.new("UICorner")
+local background = Instance.new("TextLabel")
+local UICorner_9 = Instance.new("UICorner")
+local mainscrollersetting = Instance.new("ScrollingFrame")
+local UICorner_10 = Instance.new("UICorner")
+local idkyet = Instance.new("TextButton")
+local UICorner_11 = Instance.new("UICorner")
+local buttonsoundlabel = Instance.new("TextButton")
+local UICorner_12 = Instance.new("UICorner")
+local design = Instance.new("TextLabel")
+local UICorner_13 = Instance.new("UICorner")
+local design_2 = Instance.new("TextLabel")
+local UICorner_14 = Instance.new("UICorner")
+local design_3 = Instance.new("TextLabel")
+local UICorner_15 = Instance.new("UICorner")
+local design_4 = Instance.new("TextLabel")
+local UICorner_16 = Instance.new("UICorner")
+local design_5 = Instance.new("TextLabel")
+local UICorner_17 = Instance.new("UICorner")
+local DONOTPRESS = Instance.new("TextButton")
+local UICorner_18 = Instance.new("UICorner")
+local buttonsoundon = Instance.new("TextButton")
+local UICorner_19 = Instance.new("UICorner")
+local buttonsoundsoff = Instance.new("TextButton")
+local UICorner_20 = Instance.new("UICorner")
+local DestroyUI = Instance.new("TextButton")
+local UICorner_21 = Instance.new("UICorner")
+local FarmFrame = Instance.new("Frame")
+local UICorner_22 = Instance.new("UICorner")
+local MeteorFarmLabel = Instance.new("TextButton")
+local UICorner_23 = Instance.new("UICorner")
+local SandDebrisFarmLabel = Instance.new("TextButton")
+local UICorner_24 = Instance.new("UICorner")
+local ChestFarmLabel = Instance.new("TextButton")
+local UICorner_25 = Instance.new("UICorner")
+local OtherItemFarmLabel = Instance.new("TextButton")
+local UICorner_26 = Instance.new("UICorner")
+local DesignMeteor = Instance.new("TextLabel")
+local UICorner_27 = Instance.new("UICorner")
+local DesignSandDebris = Instance.new("TextLabel")
+local UICorner_28 = Instance.new("UICorner")
+local DesignOtherItems = Instance.new("TextLabel")
+local UICorner_29 = Instance.new("UICorner")
+local DesignChests = Instance.new("TextLabel")
+local UICorner_30 = Instance.new("UICorner")
+local OnButtonMeteor = Instance.new("TextButton")
+local UICorner_31 = Instance.new("UICorner")
+local OffButtonMeteor = Instance.new("TextButton")
+local UICorner_32 = Instance.new("UICorner")
+local OnButtonOtherItems = Instance.new("TextButton")
+local UICorner_33 = Instance.new("UICorner")
+local OffButtonOtherItems = Instance.new("TextButton")
+local UICorner_34 = Instance.new("UICorner")
+local OnButtonDebris = Instance.new("TextButton")
+local UICorner_35 = Instance.new("UICorner")
+local OffButtonChest = Instance.new("TextButton")
+local UICorner_36 = Instance.new("UICorner")
+local OnButtonChest = Instance.new("TextButton")
+local UICorner_37 = Instance.new("UICorner")
+local OffButtonDebris = Instance.new("TextButton")
+local UICorner_38 = Instance.new("UICorner")
+local TPFrame = Instance.new("Frame")
+local UICorner_39 = Instance.new("UICorner")
+local background_2 = Instance.new("TextLabel")
+local UICorner_40 = Instance.new("UICorner")
+local mainscrollersetting_2 = Instance.new("ScrollingFrame")
+local UICorner_41 = Instance.new("UICorner")
+local design_6 = Instance.new("TextLabel")
+local UICorner_42 = Instance.new("UICorner")
+local design_7 = Instance.new("TextLabel")
+local UICorner_43 = Instance.new("UICorner")
+local design_8 = Instance.new("TextLabel")
+local UICorner_44 = Instance.new("UICorner")
+local design_9 = Instance.new("TextLabel")
+local UICorner_45 = Instance.new("UICorner")
+local design_10 = Instance.new("TextLabel")
+local UICorner_46 = Instance.new("UICorner")
+local design_11 = Instance.new("TextLabel")
+local UICorner_47 = Instance.new("UICorner")
+local design_12 = Instance.new("TextLabel")
+local UICorner_48 = Instance.new("UICorner")
+local design_13 = Instance.new("TextLabel")
+local UICorner_49 = Instance.new("UICorner")
+local design_14 = Instance.new("TextLabel")
+local UICorner_50 = Instance.new("UICorner")
+local design_15 = Instance.new("TextLabel")
+local UICorner_51 = Instance.new("UICorner")
+local Colleseum = Instance.new("TextButton")
+local UICorner_52 = Instance.new("UICorner")
+local PucciTP = Instance.new("TextButton")
+local UICorner_53 = Instance.new("UICorner")
+local JotaroTP = Instance.new("TextButton")
+local UICorner_54 = Instance.new("UICorner")
+local KilluaTP = Instance.new("TextButton")
+local UICorner_55 = Instance.new("UICorner")
+local ShopTP = Instance.new("TextButton")
+local UICorner_56 = Instance.new("UICorner")
+local SakuyaTP = Instance.new("TextButton")
+local UICorner_57 = Instance.new("UICorner")
+local UmbraTP = Instance.new("TextButton")
+local UICorner_58 = Instance.new("UICorner")
+local Gyro = Instance.new("TextButton")
+local UICorner_59 = Instance.new("UICorner")
+local QuestNPCTP = Instance.new("TextButton")
+local UICorner_60 = Instance.new("UICorner")
+local LocalPlayerFrame = Instance.new("Frame")
+local UICorner_61 = Instance.new("UICorner")
+local mainscroller = Instance.new("ScrollingFrame")
+local UICorner_62 = Instance.new("UICorner")
+local walkspeedbox = Instance.new("TextBox")
+local UICorner_63 = Instance.new("UICorner")
+local setwalkspeed = Instance.new("TextButton")
+local UICorner_64 = Instance.new("UICorner")
+local resetwalkspeed = Instance.new("TextButton")
+local UICorner_65 = Instance.new("UICorner")
+local jumppowerbox = Instance.new("TextBox")
+local UICorner_66 = Instance.new("UICorner")
+local setjump = Instance.new("TextButton")
+local UICorner_67 = Instance.new("UICorner")
+local resetjump = Instance.new("TextButton")
+local UICorner_68 = Instance.new("UICorner")
+local JumpPowerLabel = Instance.new("TextButton")
+local UICorner_69 = Instance.new("UICorner")
+local WalkspeedLabel = Instance.new("TextButton")
+local UICorner_70 = Instance.new("UICorner")
+local design_16 = Instance.new("TextLabel")
+local UICorner_71 = Instance.new("UICorner")
+local design_17 = Instance.new("TextLabel")
+local UICorner_72 = Instance.new("UICorner")
+local design_18 = Instance.new("TextLabel")
+local UICorner_73 = Instance.new("UICorner")
+local design_19 = Instance.new("TextLabel")
+local UICorner_74 = Instance.new("UICorner")
+local flybutton = Instance.new("TextButton")
+local UICorner_75 = Instance.new("UICorner")
+local flylabel = Instance.new("TextLabel")
+local background_3 = Instance.new("TextLabel")
+local UICorner_76 = Instance.new("UICorner")
+local CreditsFrame = Instance.new("Frame")
+local UICorner_77 = Instance.new("UICorner")
+local UIdesign = Instance.new("TextButton")
+local UICorner_78 = Instance.new("UICorner")
+local CoolestPlayer = Instance.new("TextButton")
+local UICorner_79 = Instance.new("UICorner")
+local Scripting = Instance.new("TextButton")
+local UICorner_80 = Instance.new("UICorner")
+local Discord = Instance.new("TextButton")
+local UICorner_81 = Instance.new("UICorner")
+local dot = Instance.new("TextButton")
+local UICorner_82 = Instance.new("UICorner")
+local dot_2 = Instance.new("TextButton")
+local UICorner_83 = Instance.new("UICorner")
+local dot_3 = Instance.new("TextButton")
+local UICorner_84 = Instance.new("UICorner")
+local dot_4 = Instance.new("TextButton")
+local UICorner_85 = Instance.new("UICorner")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+TitanHubAut.Name = "TitanHubAut"
+TitanHubAut.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+TitanHubAut.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+TitanHubAut.ResetOnSpawn = false
+TitanHubAut.Active = true
+TitanHubAut.Draggable = true
+
+
+AUT.Name = "AUT"
+AUT.Parent = TitanHubAut
+AUT.Active = true
+AUT.AnchorPoint = Vector2.new(0.5, 0.5)
+AUT.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+AUT.Position = UDim2.new(0.499061882, 0, 0.50939405, 0)
+AUT.Size = UDim2.new(0, 564, 0, 421)
+
+UICorner.CornerRadius = UDim.new(0, 24)
+UICorner.Parent = AUT
+
+secondary.Name = "secondary"
+secondary.Parent = AUT
+secondary.Active = true
+secondary.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+secondary.Position = UDim2.new(0, 0, 0.0800146237, 0)
+secondary.Size = UDim2.new(0, 564, 0, 387)
+
+UICorner_2.CornerRadius = UDim.new(0, 24)
+UICorner_2.Parent = secondary
+
+TitanHub.Name = "TitanHub"
+TitanHub.Parent = AUT
+TitanHub.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TitanHub.BackgroundTransparency = 1.000
+TitanHub.Position = UDim2.new(0.324078023, 0, -0.0199999996, 0)
+TitanHub.Size = UDim2.new(0, 200, 0, 50)
+TitanHub.ZIndex = 4
+TitanHub.Font = Enum.Font.SourceSansBold
+TitanHub.Text = "Titan Hub | A Universal Time"
+TitanHub.TextColor3 = Color3.fromRGB(117, 117, 117)
+TitanHub.TextSize = 30.000
+
+PlayerTab.Name = "PlayerTab"
+PlayerTab.Parent = AUT
+PlayerTab.BackgroundColor3 = Color3.fromRGB(65, 65, 65)
+PlayerTab.Position = UDim2.new(0.0284113474, 0, 0.101000004, 0)
+PlayerTab.Size = UDim2.new(0, 87, 0, 33)
+PlayerTab.ZIndex = 5
+PlayerTab.AutoButtonColor = false
+PlayerTab.Font = Enum.Font.SourceSansBold
+PlayerTab.Text = "Player"
+PlayerTab.TextColor3 = Color3.fromRGB(255, 255, 255)
+PlayerTab.TextSize = 29.000
+PlayerTab.TextWrapped = true
+
+UICorner_3.CornerRadius = UDim.new(0, 24)
+UICorner_3.Parent = PlayerTab
+
+secondtab.Name = "secondtab"
+secondtab.Parent = AUT
+secondtab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+secondtab.Position = UDim2.new(0.223234057, 0, 0.101000004, 0)
+secondtab.Size = UDim2.new(0, 87, 0, 33)
+secondtab.ZIndex = 5
+secondtab.AutoButtonColor = false
+secondtab.Font = Enum.Font.SourceSansBold
+secondtab.Text = "Farm"
+secondtab.TextColor3 = Color3.fromRGB(255, 255, 255)
+secondtab.TextSize = 29.000
+
+UICorner_4.CornerRadius = UDim.new(0, 24)
+UICorner_4.Parent = secondtab
+
+TpTab.Name = "TpTab"
+TpTab.Parent = AUT
+TpTab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+TpTab.Position = UDim2.new(0.422056735, 0, 0.101000004, 0)
+TpTab.Size = UDim2.new(0, 87, 0, 33)
+TpTab.ZIndex = 5
+TpTab.AutoButtonColor = false
+TpTab.Font = Enum.Font.SourceSansBold
+TpTab.Text = "TP"
+TpTab.TextColor3 = Color3.fromRGB(255, 255, 255)
+TpTab.TextSize = 29.000
+
+UICorner_5.CornerRadius = UDim.new(0, 24)
+UICorner_5.Parent = TpTab
+
+MiscTab.Name = "MiscTab"
+MiscTab.Parent = AUT
+MiscTab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+MiscTab.Position = UDim2.new(0.615560293, 0, 0.101000004, 0)
+MiscTab.Size = UDim2.new(0, 87, 0, 33)
+MiscTab.ZIndex = 5
+MiscTab.AutoButtonColor = false
+MiscTab.Font = Enum.Font.SourceSansBold
+MiscTab.Text = "Settings"
+MiscTab.TextColor3 = Color3.fromRGB(255, 255, 255)
+MiscTab.TextSize = 25.000
+
+UICorner_6.CornerRadius = UDim.new(0, 24)
+UICorner_6.Parent = MiscTab
+
+CreditsTab.Name = "CreditsTab"
+CreditsTab.Parent = AUT
+CreditsTab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+CreditsTab.Position = UDim2.new(0.811836839, 0, 0.101000004, 0)
+CreditsTab.Size = UDim2.new(0, 87, 0, 33)
+CreditsTab.ZIndex = 5
+CreditsTab.AutoButtonColor = false
+CreditsTab.Font = Enum.Font.SourceSansBold
+CreditsTab.Text = "Credits"
+CreditsTab.TextColor3 = Color3.fromRGB(255, 255, 255)
+CreditsTab.TextSize = 29.000
+
+UICorner_7.CornerRadius = UDim.new(0, 24)
+UICorner_7.Parent = CreditsTab
+
+MiscFrame.Name = "MiscFrame"
+MiscFrame.Parent = AUT
+MiscFrame.Active = true
+MiscFrame.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+MiscFrame.Position = UDim2.new(0.0301418435, 0, 0.208280653, 0)
+MiscFrame.Size = UDim2.new(0, 528, 0, 319)
+MiscFrame.Visible = false
+MiscFrame.ZIndex = 10
+
+UICorner_8.CornerRadius = UDim.new(0, 24)
+UICorner_8.Parent = MiscFrame
+
+background.Name = "background"
+background.Parent = MiscFrame
+background.Active = true
+background.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+background.Position = UDim2.new(0.0303030312, 0, 0.0501567386, 0)
+background.Size = UDim2.new(0, 500, 0, 287)
+background.Font = Enum.Font.SourceSans
+background.Text = ""
+background.TextColor3 = Color3.fromRGB(0, 0, 0)
+background.TextSize = 14.000
+
+UICorner_9.Parent = background
+
+mainscrollersetting.Name = "mainscrollersetting"
+mainscrollersetting.Parent = MiscFrame
+mainscrollersetting.Active = true
+mainscrollersetting.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+mainscrollersetting.BackgroundTransparency = 1.000
+mainscrollersetting.BorderColor3 = Color3.fromRGB(24, 24, 24)
+mainscrollersetting.Position = UDim2.new(0.026515156, 0, 0.0501567423, 0)
+mainscrollersetting.Size = UDim2.new(0, 500, 0, 287)
+mainscrollersetting.ZIndex = 2
+
+UICorner_10.Parent = mainscrollersetting
+
+idkyet.Name = "idkyet"
+idkyet.Parent = mainscrollersetting
+idkyet.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+idkyet.BackgroundTransparency = 1.000
+idkyet.Position = UDim2.new(0.36456576, 0, 0.140780672, 0)
+idkyet.Size = UDim2.new(0, 136, 0, 33)
+idkyet.ZIndex = 5
+idkyet.AutoButtonColor = false
+idkyet.Font = Enum.Font.SourceSansBold
+idkyet.Text = "IDK"
+idkyet.TextColor3 = Color3.fromRGB(255, 255, 255)
+idkyet.TextSize = 40.000
+
+UICorner_11.CornerRadius = UDim.new(0, 24)
+UICorner_11.Parent = idkyet
+
+buttonsoundlabel.Name = "button sound label"
+buttonsoundlabel.Parent = mainscrollersetting
+buttonsoundlabel.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+buttonsoundlabel.BackgroundTransparency = 1.000
+buttonsoundlabel.Position = UDim2.new(0.0905657709, 0, 0.0357649997, 0)
+buttonsoundlabel.Size = UDim2.new(0, 136, 0, 33)
+buttonsoundlabel.ZIndex = 5
+buttonsoundlabel.AutoButtonColor = false
+buttonsoundlabel.Font = Enum.Font.SourceSansBold
+buttonsoundlabel.Text = "Button Sounds (IN DEV)"
+buttonsoundlabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+buttonsoundlabel.TextSize = 21.000
+
+UICorner_12.CornerRadius = UDim.new(0, 24)
+UICorner_12.Parent = buttonsoundlabel
+
+design.Name = "design"
+design.Parent = mainscrollersetting
+design.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design.Position = UDim2.new(0.0328332521, 0, 0.237947524, 0)
+design.Size = UDim2.new(0, 454, 0, 50)
+design.ZIndex = 3
+design.Font = Enum.Font.SourceSans
+design.Text = ""
+design.TextColor3 = Color3.fromRGB(0, 0, 0)
+design.TextSize = 14.000
+
+UICorner_13.Parent = design
+
+design_2.Name = "design"
+design_2.Parent = mainscrollersetting
+design_2.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_2.Position = UDim2.new(0.0328332521, 0, 0.02321399, 0)
+design_2.Size = UDim2.new(0, 454, 0, 50)
+design_2.ZIndex = 3
+design_2.Font = Enum.Font.SourceSans
+design_2.Text = ""
+design_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_2.TextSize = 14.000
+
+UICorner_14.Parent = design_2
+
+design_3.Name = "design"
+design_3.Parent = mainscrollersetting
+design_3.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_3.Position = UDim2.new(0.0328332521, 0, 0.349232793, 0)
+design_3.Size = UDim2.new(0, 454, 0, 50)
+design_3.ZIndex = 3
+design_3.Font = Enum.Font.SourceSans
+design_3.Text = ""
+design_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_3.TextSize = 14.000
+
+UICorner_15.Parent = design_3
+
+design_4.Name = "design"
+design_4.Parent = mainscrollersetting
+design_4.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_4.Position = UDim2.new(0.0328332521, 0, 0.128229663, 0)
+design_4.Size = UDim2.new(0, 454, 0, 50)
+design_4.ZIndex = 3
+design_4.Font = Enum.Font.SourceSans
+design_4.Text = ""
+design_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_4.TextSize = 14.000
+
+UICorner_16.Parent = design_4
+
+design_5.Name = "design"
+design_5.Parent = mainscrollersetting
+design_5.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_5.Position = UDim2.new(0.0328332521, 0, 0.349232793, 0)
+design_5.Size = UDim2.new(0, 454, 0, 50)
+design_5.ZIndex = 3
+design_5.Font = Enum.Font.SourceSans
+design_5.Text = ""
+design_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_5.TextSize = 14.000
+
+UICorner_17.Parent = design_5
+
+DONOTPRESS.Name = "DO NOT PRESS!!!"
+DONOTPRESS.Parent = mainscrollersetting
+DONOTPRESS.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+DONOTPRESS.Position = UDim2.new(0.0665657669, 0, 0.361783803, 0)
+DONOTPRESS.Size = UDim2.new(0, 420, 0, 33)
+DONOTPRESS.ZIndex = 5
+DONOTPRESS.AutoButtonColor = false
+DONOTPRESS.Font = Enum.Font.SourceSansBold
+DONOTPRESS.Text = "DO NOT PRESS!!!"
+DONOTPRESS.TextColor3 = Color3.fromRGB(83, 0, 1)
+DONOTPRESS.TextSize = 30.000
+
+UICorner_18.CornerRadius = UDim.new(0, 10)
+UICorner_18.Parent = DONOTPRESS
+
+buttonsoundon.Name = "buttonsoundon"
+buttonsoundon.Parent = mainscrollersetting
+buttonsoundon.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+buttonsoundon.Position = UDim2.new(0.732396126, 0, 0.0336018912, 0)
+buttonsoundon.Size = UDim2.new(0, 87, 0, 33)
+buttonsoundon.ZIndex = 5
+buttonsoundon.AutoButtonColor = false
+buttonsoundon.Font = Enum.Font.SourceSansBold
+buttonsoundon.Text = "On"
+buttonsoundon.TextColor3 = Color3.fromRGB(255, 255, 255)
+buttonsoundon.TextSize = 29.000
+buttonsoundon.TextWrapped = true
+
+UICorner_19.CornerRadius = UDim.new(0, 24)
+UICorner_19.Parent = buttonsoundon
+
+buttonsoundsoff.Name = "buttonsoundsoff"
+buttonsoundsoff.Parent = mainscrollersetting
+buttonsoundsoff.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+buttonsoundsoff.Position = UDim2.new(0.527790129, 0, 0.0336018912, 0)
+buttonsoundsoff.Size = UDim2.new(0, 87, 0, 33)
+buttonsoundsoff.ZIndex = 5
+buttonsoundsoff.AutoButtonColor = false
+buttonsoundsoff.Font = Enum.Font.SourceSansBold
+buttonsoundsoff.Text = "Off"
+buttonsoundsoff.TextColor3 = Color3.fromRGB(149, 0, 2)
+buttonsoundsoff.TextSize = 29.000
+buttonsoundsoff.TextWrapped = true
+
+UICorner_20.CornerRadius = UDim.new(0, 24)
+UICorner_20.Parent = buttonsoundsoff
+
+DestroyUI.Name = "Destroy UI"
+DestroyUI.Parent = mainscrollersetting
+DestroyUI.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+DestroyUI.Position = UDim2.new(0.0665657669, 0, 0.250498533, 0)
+DestroyUI.Size = UDim2.new(0, 420, 0, 33)
+DestroyUI.ZIndex = 5
+DestroyUI.AutoButtonColor = false
+DestroyUI.Font = Enum.Font.SourceSansBold
+DestroyUI.Text = "Destroy UI"
+DestroyUI.TextColor3 = Color3.fromRGB(255, 255, 255)
+DestroyUI.TextSize = 30.000
+
+UICorner_21.CornerRadius = UDim.new(0, 10)
+UICorner_21.Parent = DestroyUI
+
+FarmFrame.Name = "FarmFrame"
+FarmFrame.Parent = AUT
+FarmFrame.Active = true
+FarmFrame.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+FarmFrame.Position = UDim2.new(0.0301418435, 0, 0.208280653, 0)
+FarmFrame.Size = UDim2.new(0, 528, 0, 319)
+FarmFrame.Visible = false
+
+UICorner_22.CornerRadius = UDim.new(0, 24)
+UICorner_22.Parent = FarmFrame
+
+MeteorFarmLabel.Name = "MeteorFarmLabel"
+MeteorFarmLabel.Parent = FarmFrame
+MeteorFarmLabel.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+MeteorFarmLabel.BackgroundTransparency = 1.000
+MeteorFarmLabel.Position = UDim2.new(0.0765657723, 0, 0.057708554, 0)
+MeteorFarmLabel.Size = UDim2.new(0, 136, 0, 33)
+MeteorFarmLabel.ZIndex = 5
+MeteorFarmLabel.AutoButtonColor = false
+MeteorFarmLabel.Font = Enum.Font.SourceSansBold
+MeteorFarmLabel.Text = "Coming Soon"
+MeteorFarmLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+MeteorFarmLabel.TextSize = 29.000
+
+UICorner_23.CornerRadius = UDim.new(0, 24)
+UICorner_23.Parent = MeteorFarmLabel
+
+SandDebrisFarmLabel.Name = "SandDebrisFarmLabel"
+SandDebrisFarmLabel.Parent = FarmFrame
+SandDebrisFarmLabel.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+SandDebrisFarmLabel.BackgroundTransparency = 1.000
+SandDebrisFarmLabel.Position = UDim2.new(0.0405809209, 0, 0.744228899, 0)
+SandDebrisFarmLabel.Size = UDim2.new(0, 174, 0, 33)
+SandDebrisFarmLabel.ZIndex = 5
+SandDebrisFarmLabel.AutoButtonColor = false
+SandDebrisFarmLabel.Font = Enum.Font.SourceSansBold
+SandDebrisFarmLabel.Text = "Coming Soon"
+SandDebrisFarmLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+SandDebrisFarmLabel.TextSize = 29.000
+
+UICorner_24.CornerRadius = UDim.new(0, 24)
+UICorner_24.Parent = SandDebrisFarmLabel
+
+ChestFarmLabel.Name = "ChestFarmLabel"
+ChestFarmLabel.Parent = FarmFrame
+ChestFarmLabel.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+ChestFarmLabel.BackgroundTransparency = 1.000
+ChestFarmLabel.Position = UDim2.new(0.055732429, 0, 0.277144313, 0)
+ChestFarmLabel.Size = UDim2.new(0, 136, 0, 33)
+ChestFarmLabel.ZIndex = 5
+ChestFarmLabel.AutoButtonColor = false
+ChestFarmLabel.Font = Enum.Font.SourceSansBold
+ChestFarmLabel.Text = "ChestFarm"
+ChestFarmLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+ChestFarmLabel.TextSize = 29.000
+
+UICorner_25.CornerRadius = UDim.new(0, 24)
+UICorner_25.Parent = ChestFarmLabel
+
+OtherItemFarmLabel.Name = "OtherItemFarmLabel"
+OtherItemFarmLabel.Parent = FarmFrame
+OtherItemFarmLabel.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+OtherItemFarmLabel.BackgroundTransparency = 1.000
+OtherItemFarmLabel.Position = UDim2.new(0.0765657723, 0, 0.505984426, 0)
+OtherItemFarmLabel.Size = UDim2.new(0, 136, 0, 33)
+OtherItemFarmLabel.ZIndex = 5
+OtherItemFarmLabel.AutoButtonColor = false
+OtherItemFarmLabel.Font = Enum.Font.SourceSansBold
+OtherItemFarmLabel.Text = "Coming Soon"
+OtherItemFarmLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+OtherItemFarmLabel.TextSize = 29.000
+
+UICorner_26.CornerRadius = UDim.new(0, 24)
+UICorner_26.Parent = OtherItemFarmLabel
+
+DesignMeteor.Name = "DesignMeteor"
+DesignMeteor.Parent = FarmFrame
+DesignMeteor.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+DesignMeteor.Position = UDim2.new(0.020833334, 0, 0.031347964, 0)
+DesignMeteor.Size = UDim2.new(0, 500, 0, 50)
+DesignMeteor.Font = Enum.Font.SourceSans
+DesignMeteor.Text = ""
+DesignMeteor.TextColor3 = Color3.fromRGB(0, 0, 0)
+DesignMeteor.TextSize = 14.000
+
+UICorner_27.Parent = DesignMeteor
+
+DesignSandDebris.Name = "DesignSandDebris"
+DesignSandDebris.Parent = FarmFrame
+DesignSandDebris.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+DesignSandDebris.Position = UDim2.new(0.020833334, 0, 0.714733541, 0)
+DesignSandDebris.Size = UDim2.new(0, 500, 0, 50)
+DesignSandDebris.Font = Enum.Font.SourceSans
+DesignSandDebris.Text = ""
+DesignSandDebris.TextColor3 = Color3.fromRGB(0, 0, 0)
+DesignSandDebris.TextSize = 14.000
+
+UICorner_28.Parent = DesignSandDebris
+
+DesignOtherItems.Name = "DesignOtherItems"
+DesignOtherItems.Parent = FarmFrame
+DesignOtherItems.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+DesignOtherItems.Position = UDim2.new(0.020833334, 0, 0.476489037, 0)
+DesignOtherItems.Size = UDim2.new(0, 500, 0, 50)
+DesignOtherItems.Font = Enum.Font.SourceSans
+DesignOtherItems.Text = ""
+DesignOtherItems.TextColor3 = Color3.fromRGB(0, 0, 0)
+DesignOtherItems.TextSize = 14.000
+
+UICorner_29.Parent = DesignOtherItems
+
+DesignChests.Name = "DesignChests"
+DesignChests.Parent = FarmFrame
+DesignChests.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+DesignChests.Position = UDim2.new(0.020833334, 0, 0.250783712, 0)
+DesignChests.Size = UDim2.new(0, 500, 0, 50)
+DesignChests.Font = Enum.Font.SourceSans
+DesignChests.Text = ""
+DesignChests.TextColor3 = Color3.fromRGB(0, 0, 0)
+DesignChests.TextSize = 14.000
+
+UICorner_30.Parent = DesignChests
+
+OnButtonMeteor.Name = "OnButtonMeteor"
+OnButtonMeteor.Parent = FarmFrame
+OnButtonMeteor.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+OnButtonMeteor.Position = UDim2.new(0.564396143, 0, 0.0571128651, 0)
+OnButtonMeteor.Size = UDim2.new(0, 87, 0, 33)
+OnButtonMeteor.ZIndex = 5
+OnButtonMeteor.AutoButtonColor = false
+OnButtonMeteor.Font = Enum.Font.SourceSansBold
+OnButtonMeteor.Text = "On"
+OnButtonMeteor.TextColor3 = Color3.fromRGB(255, 255, 255)
+OnButtonMeteor.TextSize = 29.000
+OnButtonMeteor.TextWrapped = true
+
+UICorner_31.CornerRadius = UDim.new(0, 24)
+UICorner_31.Parent = OnButtonMeteor
+
+OffButtonMeteor.Name = "OffButtonMeteor"
+OffButtonMeteor.Parent = FarmFrame
+OffButtonMeteor.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+OffButtonMeteor.Position = UDim2.new(0.75379014, 0, 0.0571128577, 0)
+OffButtonMeteor.Size = UDim2.new(0, 87, 0, 33)
+OffButtonMeteor.ZIndex = 5
+OffButtonMeteor.AutoButtonColor = false
+OffButtonMeteor.Font = Enum.Font.SourceSansBold
+OffButtonMeteor.Text = "Off"
+OffButtonMeteor.TextColor3 = Color3.fromRGB(149, 0, 2)
+OffButtonMeteor.TextSize = 29.000
+OffButtonMeteor.TextWrapped = true
+
+UICorner_32.CornerRadius = UDim.new(0, 24)
+UICorner_32.Parent = OffButtonMeteor
+
+OnButtonOtherItems.Name = "OnButtonOtherItems"
+OnButtonOtherItems.Parent = FarmFrame
+OnButtonOtherItems.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+OnButtonOtherItems.Position = UDim2.new(0.564396143, 0, 0.50225389, 0)
+OnButtonOtherItems.Size = UDim2.new(0, 87, 0, 33)
+OnButtonOtherItems.ZIndex = 5
+OnButtonOtherItems.AutoButtonColor = false
+OnButtonOtherItems.Font = Enum.Font.SourceSansBold
+OnButtonOtherItems.Text = "On"
+OnButtonOtherItems.TextColor3 = Color3.fromRGB(255, 255, 255)
+OnButtonOtherItems.TextSize = 29.000
+OnButtonOtherItems.TextWrapped = true
+
+UICorner_33.CornerRadius = UDim.new(0, 24)
+UICorner_33.Parent = OnButtonOtherItems
+
+OffButtonOtherItems.Name = "OffButtonOtherItems"
+OffButtonOtherItems.Parent = FarmFrame
+OffButtonOtherItems.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+OffButtonOtherItems.Position = UDim2.new(0.753790081, 0, 0.505388737, 0)
+OffButtonOtherItems.Size = UDim2.new(0, 87, 0, 33)
+OffButtonOtherItems.ZIndex = 5
+OffButtonOtherItems.AutoButtonColor = false
+OffButtonOtherItems.Font = Enum.Font.SourceSansBold
+OffButtonOtherItems.Text = "Off"
+OffButtonOtherItems.TextColor3 = Color3.fromRGB(149, 0, 2)
+OffButtonOtherItems.TextSize = 29.000
+OffButtonOtherItems.TextWrapped = true
+
+UICorner_34.CornerRadius = UDim.new(0, 24)
+UICorner_34.Parent = OffButtonOtherItems
+
+OnButtonDebris.Name = "OnButtonDebris"
+OnButtonDebris.Parent = FarmFrame
+OnButtonDebris.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+OnButtonDebris.Position = UDim2.new(0.564396143, 0, 0.737363636, 0)
+OnButtonDebris.Size = UDim2.new(0, 87, 0, 33)
+OnButtonDebris.ZIndex = 5
+OnButtonDebris.AutoButtonColor = false
+OnButtonDebris.Font = Enum.Font.SourceSansBold
+OnButtonDebris.Text = "On"
+OnButtonDebris.TextColor3 = Color3.fromRGB(255, 255, 255)
+OnButtonDebris.TextSize = 29.000
+OnButtonDebris.TextWrapped = true
+
+UICorner_35.CornerRadius = UDim.new(0, 24)
+UICorner_35.Parent = OnButtonDebris
+
+OffButtonChest.Name = "OffButtonChest"
+OffButtonChest.Parent = FarmFrame
+OffButtonChest.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+OffButtonChest.Position = UDim2.new(0.753790081, 0, 0.276548594, 0)
+OffButtonChest.Size = UDim2.new(0, 87, 0, 33)
+OffButtonChest.ZIndex = 5
+OffButtonChest.AutoButtonColor = false
+OffButtonChest.Font = Enum.Font.SourceSansBold
+OffButtonChest.Text = "Off"
+OffButtonChest.TextColor3 = Color3.fromRGB(149, 0, 2)
+OffButtonChest.TextSize = 29.000
+OffButtonChest.TextWrapped = true
+
+UICorner_36.CornerRadius = UDim.new(0, 24)
+UICorner_36.Parent = OffButtonChest
+
+OnButtonChest.Name = "OnButtonChest"
+OnButtonChest.Parent = FarmFrame
+OnButtonChest.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+OnButtonChest.Position = UDim2.new(0.564396143, 0, 0.273413807, 0)
+OnButtonChest.Size = UDim2.new(0, 87, 0, 33)
+OnButtonChest.ZIndex = 5
+OnButtonChest.AutoButtonColor = false
+OnButtonChest.Font = Enum.Font.SourceSansBold
+OnButtonChest.Text = "On"
+OnButtonChest.TextColor3 = Color3.fromRGB(255, 255, 255)
+OnButtonChest.TextSize = 29.000
+OnButtonChest.TextWrapped = true
+
+UICorner_37.CornerRadius = UDim.new(0, 24)
+UICorner_37.Parent = OnButtonChest
+
+OffButtonDebris.Name = "OffButtonDebris"
+OffButtonDebris.Parent = FarmFrame
+OffButtonDebris.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+OffButtonDebris.Position = UDim2.new(0.753790081, 0, 0.740498424, 0)
+OffButtonDebris.Size = UDim2.new(0, 87, 0, 33)
+OffButtonDebris.ZIndex = 5
+OffButtonDebris.AutoButtonColor = false
+OffButtonDebris.Font = Enum.Font.SourceSansBold
+OffButtonDebris.Text = "Off"
+OffButtonDebris.TextColor3 = Color3.fromRGB(149, 0, 2)
+OffButtonDebris.TextSize = 29.000
+OffButtonDebris.TextWrapped = true
+
+UICorner_38.CornerRadius = UDim.new(0, 24)
+UICorner_38.Parent = OffButtonDebris
+
+TPFrame.Name = "TPFrame"
+TPFrame.Parent = AUT
+TPFrame.Active = true
+TPFrame.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+TPFrame.Position = UDim2.new(0.0301418435, 0, 0.208280653, 0)
+TPFrame.Size = UDim2.new(0, 528, 0, 319)
+TPFrame.Visible = false
+
+UICorner_39.CornerRadius = UDim.new(0, 24)
+UICorner_39.Parent = TPFrame
+
+background_2.Name = "background"
+background_2.Parent = TPFrame
+background_2.Active = true
+background_2.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+background_2.Position = UDim2.new(0.0303030312, 0, 0.0501567386, 0)
+background_2.Size = UDim2.new(0, 500, 0, 287)
+background_2.Font = Enum.Font.SourceSans
+background_2.Text = ""
+background_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+background_2.TextSize = 14.000
+
+UICorner_40.Parent = background_2
+
+mainscrollersetting_2.Name = "mainscrollersetting"
+mainscrollersetting_2.Parent = TPFrame
+mainscrollersetting_2.Active = true
+mainscrollersetting_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+mainscrollersetting_2.BackgroundTransparency = 1.000
+mainscrollersetting_2.BorderColor3 = Color3.fromRGB(24, 24, 24)
+mainscrollersetting_2.Position = UDim2.new(0.026515156, 0, 0.0501567423, 0)
+mainscrollersetting_2.Size = UDim2.new(0, 500, 0, 287)
+mainscrollersetting_2.ZIndex = 2
+
+UICorner_41.Parent = mainscrollersetting_2
+
+design_6.Name = "design"
+design_6.Parent = mainscrollersetting_2
+design_6.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_6.Position = UDim2.new(0.0328332521, 0, 0.237947524, 0)
+design_6.Size = UDim2.new(0, 454, 0, 50)
+design_6.ZIndex = 3
+design_6.Font = Enum.Font.SourceSans
+design_6.Text = ""
+design_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_6.TextSize = 14.000
+
+UICorner_42.Parent = design_6
+
+design_7.Name = "design"
+design_7.Parent = mainscrollersetting_2
+design_7.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_7.Position = UDim2.new(0.0328332521, 0, 0.02321399, 0)
+design_7.Size = UDim2.new(0, 454, 0, 50)
+design_7.ZIndex = 3
+design_7.Font = Enum.Font.SourceSans
+design_7.Text = ""
+design_7.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_7.TextSize = 14.000
+
+UICorner_43.Parent = design_7
+
+design_8.Name = "design"
+design_8.Parent = mainscrollersetting_2
+design_8.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_8.Position = UDim2.new(0.0328332521, 0, 0.349232793, 0)
+design_8.Size = UDim2.new(0, 454, 0, 50)
+design_8.ZIndex = 3
+design_8.Font = Enum.Font.SourceSans
+design_8.Text = ""
+design_8.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_8.TextSize = 14.000
+
+UICorner_44.Parent = design_8
+
+design_9.Name = "design"
+design_9.Parent = mainscrollersetting_2
+design_9.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_9.Position = UDim2.new(0.0328332521, 0, 0.128229663, 0)
+design_9.Size = UDim2.new(0, 454, 0, 50)
+design_9.ZIndex = 3
+design_9.Font = Enum.Font.SourceSans
+design_9.Text = ""
+design_9.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_9.TextSize = 14.000
+
+UICorner_45.Parent = design_9
+
+design_10.Name = "design"
+design_10.Parent = mainscrollersetting_2
+design_10.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_10.Position = UDim2.new(0.0328332521, 0, 0.675251663, 0)
+design_10.Size = UDim2.new(0, 454, 0, 50)
+design_10.ZIndex = 3
+design_10.Font = Enum.Font.SourceSans
+design_10.Text = ""
+design_10.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_10.TextSize = 14.000
+
+UICorner_46.Parent = design_10
+
+design_11.Name = "design"
+design_11.Parent = mainscrollersetting_2
+design_11.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_11.Position = UDim2.new(0.0328332521, 0, 0.563966334, 0)
+design_11.Size = UDim2.new(0, 454, 0, 50)
+design_11.ZIndex = 3
+design_11.Font = Enum.Font.SourceSans
+design_11.Text = ""
+design_11.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_11.TextSize = 14.000
+
+UICorner_47.Parent = design_11
+
+design_12.Name = "design"
+design_12.Parent = mainscrollersetting_2
+design_12.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_12.Position = UDim2.new(0.0328332521, 0, 0.349232793, 0)
+design_12.Size = UDim2.new(0, 454, 0, 50)
+design_12.ZIndex = 3
+design_12.Font = Enum.Font.SourceSans
+design_12.Text = ""
+design_12.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_12.TextSize = 14.000
+
+UICorner_48.Parent = design_12
+
+design_13.Name = "design"
+design_13.Parent = mainscrollersetting_2
+design_13.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_13.Position = UDim2.new(0.0328332521, 0, 0.454248488, 0)
+design_13.Size = UDim2.new(0, 454, 0, 50)
+design_13.ZIndex = 3
+design_13.Font = Enum.Font.SourceSans
+design_13.Text = ""
+design_13.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_13.TextSize = 14.000
+
+UICorner_49.Parent = design_13
+
+design_14.Name = "design"
+design_14.Parent = mainscrollersetting_2
+design_14.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_14.Position = UDim2.new(0.0328332521, 0, 0.786536872, 0)
+design_14.Size = UDim2.new(0, 454, 0, 50)
+design_14.ZIndex = 3
+design_14.Font = Enum.Font.SourceSans
+design_14.Text = ""
+design_14.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_14.TextSize = 14.000
+
+UICorner_50.Parent = design_14
+
+design_15.Name = "design"
+design_15.Parent = mainscrollersetting_2
+design_15.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_15.Position = UDim2.new(0.0328332521, 0, 0.897822201, 0)
+design_15.Size = UDim2.new(0, 454, 0, 50)
+design_15.ZIndex = 3
+design_15.Font = Enum.Font.SourceSans
+design_15.Text = ""
+design_15.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_15.TextSize = 14.000
+
+UICorner_51.Parent = design_15
+
+Colleseum.Name = "Colleseum"
+Colleseum.Parent = mainscrollersetting_2
+Colleseum.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+Colleseum.Position = UDim2.new(0.0665657669, 0, 0.573382556, 0)
+Colleseum.Size = UDim2.new(0, 420, 0, 33)
+Colleseum.ZIndex = 5
+Colleseum.AutoButtonColor = false
+Colleseum.Font = Enum.Font.SourceSansBold
+Colleseum.Text = "Colleseum -- Depending On Area"
+Colleseum.TextColor3 = Color3.fromRGB(255, 255, 255)
+Colleseum.TextSize = 30.000
+
+UICorner_52.CornerRadius = UDim.new(0, 10)
+UICorner_52.Parent = Colleseum
+
+PucciTP.Name = "PucciTP"
+PucciTP.Parent = mainscrollersetting_2
+PucciTP.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+PucciTP.Position = UDim2.new(0.0665657669, 0, 0.250498533, 0)
+PucciTP.Size = UDim2.new(0, 420, 0, 33)
+PucciTP.ZIndex = 5
+PucciTP.AutoButtonColor = false
+PucciTP.Font = Enum.Font.SourceSansBold
+PucciTP.Text = "Pucci"
+PucciTP.TextColor3 = Color3.fromRGB(255, 255, 255)
+PucciTP.TextSize = 30.000
+
+UICorner_53.CornerRadius = UDim.new(0, 10)
+UICorner_53.Parent = PucciTP
+
+JotaroTP.Name = "JotaroTP"
+JotaroTP.Parent = mainscrollersetting_2
+JotaroTP.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+JotaroTP.Position = UDim2.new(0.0665657669, 0, 0.910373151, 0)
+JotaroTP.Size = UDim2.new(0, 420, 0, 33)
+JotaroTP.ZIndex = 5
+JotaroTP.AutoButtonColor = false
+JotaroTP.Font = Enum.Font.SourceSansBold
+JotaroTP.Text = "Jotaro"
+JotaroTP.TextColor3 = Color3.fromRGB(255, 255, 255)
+JotaroTP.TextSize = 30.000
+
+UICorner_54.CornerRadius = UDim.new(0, 10)
+UICorner_54.Parent = JotaroTP
+
+KilluaTP.Name = "KilluaTP"
+KilluaTP.Parent = mainscrollersetting_2
+KilluaTP.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+KilluaTP.Position = UDim2.new(0.0665657669, 0, 0.466799468, 0)
+KilluaTP.Size = UDim2.new(0, 420, 0, 33)
+KilluaTP.ZIndex = 5
+KilluaTP.AutoButtonColor = false
+KilluaTP.Font = Enum.Font.SourceSansBold
+KilluaTP.Text = "Killua"
+KilluaTP.TextColor3 = Color3.fromRGB(255, 255, 255)
+KilluaTP.TextSize = 30.000
+
+UICorner_55.CornerRadius = UDim.new(0, 10)
+UICorner_55.Parent = KilluaTP
+
+ShopTP.Name = "ShopTP"
+ShopTP.Parent = mainscrollersetting_2
+ShopTP.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+ShopTP.Position = UDim2.new(0.0665657669, 0, 0.361783803, 0)
+ShopTP.Size = UDim2.new(0, 420, 0, 33)
+ShopTP.ZIndex = 5
+ShopTP.AutoButtonColor = false
+ShopTP.Font = Enum.Font.SourceSansBold
+ShopTP.Text = "ShopNPC"
+ShopTP.TextColor3 = Color3.fromRGB(255, 255, 255)
+ShopTP.TextSize = 30.000
+
+UICorner_56.CornerRadius = UDim.new(0, 10)
+UICorner_56.Parent = ShopTP
+
+SakuyaTP.Name = "SakuyaTP"
+SakuyaTP.Parent = mainscrollersetting_2
+SakuyaTP.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+SakuyaTP.Position = UDim2.new(0.0665657669, 0, 0.0357649922, 0)
+SakuyaTP.Size = UDim2.new(0, 420, 0, 33)
+SakuyaTP.ZIndex = 5
+SakuyaTP.AutoButtonColor = false
+SakuyaTP.Font = Enum.Font.SourceSansBold
+SakuyaTP.Text = "Sakuya -- Not Always Spawned"
+SakuyaTP.TextColor3 = Color3.fromRGB(255, 255, 255)
+SakuyaTP.TextSize = 30.000
+
+UICorner_57.CornerRadius = UDim.new(0, 10)
+UICorner_57.Parent = SakuyaTP
+
+UmbraTP.Name = "UmbraTP"
+UmbraTP.Parent = mainscrollersetting_2
+UmbraTP.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+UmbraTP.Position = UDim2.new(0.0665657669, 0, 0.140780658, 0)
+UmbraTP.Size = UDim2.new(0, 420, 0, 33)
+UmbraTP.ZIndex = 5
+UmbraTP.AutoButtonColor = false
+UmbraTP.Font = Enum.Font.SourceSansBold
+UmbraTP.Text = "Umbra"
+UmbraTP.TextColor3 = Color3.fromRGB(255, 255, 255)
+UmbraTP.TextSize = 30.000
+
+UICorner_58.CornerRadius = UDim.new(0, 10)
+UICorner_58.Parent = UmbraTP
+
+Gyro.Name = "Gyro"
+Gyro.Parent = mainscrollersetting_2
+Gyro.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+Gyro.Position = UDim2.new(0.0665657669, 0, 0.687802613, 0)
+Gyro.Size = UDim2.new(0, 420, 0, 33)
+Gyro.ZIndex = 5
+Gyro.AutoButtonColor = false
+Gyro.Font = Enum.Font.SourceSansBold
+Gyro.Text = "Gyro -- Not Always Spawned"
+Gyro.TextColor3 = Color3.fromRGB(255, 255, 255)
+Gyro.TextSize = 30.000
+
+UICorner_59.CornerRadius = UDim.new(0, 10)
+UICorner_59.Parent = Gyro
+
+QuestNPCTP.Name = "QuestNPCTP"
+QuestNPCTP.Parent = mainscrollersetting_2
+QuestNPCTP.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+QuestNPCTP.Position = UDim2.new(0.0665657669, 0, 0.799087882, 0)
+QuestNPCTP.Size = UDim2.new(0, 420, 0, 33)
+QuestNPCTP.ZIndex = 5
+QuestNPCTP.AutoButtonColor = false
+QuestNPCTP.Font = Enum.Font.SourceSansBold
+QuestNPCTP.Text = "DailyQuestNPC"
+QuestNPCTP.TextColor3 = Color3.fromRGB(255, 255, 255)
+QuestNPCTP.TextSize = 30.000
+
+UICorner_60.CornerRadius = UDim.new(0, 10)
+UICorner_60.Parent = QuestNPCTP
+
+LocalPlayerFrame.Name = "LocalPlayerFrame"
+LocalPlayerFrame.Parent = AUT
+LocalPlayerFrame.Active = true
+LocalPlayerFrame.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+LocalPlayerFrame.Position = UDim2.new(0.0301418435, 0, 0.208280653, 0)
+LocalPlayerFrame.Size = UDim2.new(0, 528, 0, 319)
+
+UICorner_61.CornerRadius = UDim.new(0, 24)
+UICorner_61.Parent = LocalPlayerFrame
+
+mainscroller.Name = "mainscroller"
+mainscroller.Parent = LocalPlayerFrame
+mainscroller.Active = true
+mainscroller.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+mainscroller.BackgroundTransparency = 1.000
+mainscroller.BorderColor3 = Color3.fromRGB(24, 24, 24)
+mainscroller.Position = UDim2.new(0.026515156, 0, 0.0501567423, 0)
+mainscroller.Size = UDim2.new(0, 500, 0, 287)
+mainscroller.ZIndex = 2
+
+UICorner_62.Parent = mainscroller
+
+walkspeedbox.Name = "walkspeedbox"
+walkspeedbox.Parent = mainscroller
+walkspeedbox.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+walkspeedbox.Position = UDim2.new(0.414000005, 0, 0.0336471796, 0)
+walkspeedbox.Size = UDim2.new(0, 200, 0, 35)
+walkspeedbox.ZIndex = 5
+walkspeedbox.Font = Enum.Font.SourceSans
+walkspeedbox.PlaceholderColor3 = Color3.fromRGB(175, 175, 175)
+walkspeedbox.PlaceholderText = "Walkspeed"
+walkspeedbox.Text = ""
+walkspeedbox.TextColor3 = Color3.fromRGB(0, 0, 0)
+walkspeedbox.TextSize = 14.000
+
+UICorner_63.CornerRadius = UDim.new(0, 24)
+UICorner_63.Parent = walkspeedbox
+
+setwalkspeed.Name = "setwalkspeed"
+setwalkspeed.Parent = mainscroller
+setwalkspeed.BackgroundColor3 = Color3.fromRGB(17, 68, 9)
+setwalkspeed.Position = UDim2.new(0.841560066, 0, 0.032691434, 0)
+setwalkspeed.Size = UDim2.new(0, 35, 0, 33)
+setwalkspeed.ZIndex = 7
+setwalkspeed.Font = Enum.Font.SourceSans
+setwalkspeed.Text = "✓"
+setwalkspeed.TextColor3 = Color3.fromRGB(0, 0, 0)
+setwalkspeed.TextSize = 45.000
+setwalkspeed.TextWrapped = true
+
+UICorner_64.CornerRadius = UDim.new(1, 0)
+UICorner_64.Parent = setwalkspeed
+
+resetwalkspeed.Name = "resetwalkspeed"
+resetwalkspeed.Parent = mainscroller
+resetwalkspeed.BackgroundColor3 = Color3.fromRGB(103, 0, 1)
+resetwalkspeed.Position = UDim2.new(0.310000002, 0, 0.0350000001, 0)
+resetwalkspeed.Size = UDim2.new(0, 35, 0, 33)
+resetwalkspeed.ZIndex = 7
+resetwalkspeed.Font = Enum.Font.SourceSansBold
+resetwalkspeed.Text = "X"
+resetwalkspeed.TextColor3 = Color3.fromRGB(0, 0, 0)
+resetwalkspeed.TextSize = 30.000
+resetwalkspeed.TextWrapped = true
+
+UICorner_65.CornerRadius = UDim.new(1, 0)
+UICorner_65.Parent = resetwalkspeed
+
+jumppowerbox.Name = "jumppowerbox"
+jumppowerbox.Parent = mainscroller
+jumppowerbox.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+jumppowerbox.Position = UDim2.new(0.414000005, 0, 0.138662845, 0)
+jumppowerbox.Size = UDim2.new(0, 200, 0, 35)
+jumppowerbox.ZIndex = 5
+jumppowerbox.Font = Enum.Font.SourceSans
+jumppowerbox.PlaceholderColor3 = Color3.fromRGB(175, 175, 175)
+jumppowerbox.PlaceholderText = "JumpPower"
+jumppowerbox.Text = ""
+jumppowerbox.TextColor3 = Color3.fromRGB(0, 0, 0)
+jumppowerbox.TextSize = 14.000
+
+UICorner_66.CornerRadius = UDim.new(0, 24)
+UICorner_66.Parent = jumppowerbox
+
+setjump.Name = "setjump"
+setjump.Parent = mainscroller
+setjump.BackgroundColor3 = Color3.fromRGB(17, 68, 9)
+setjump.Position = UDim2.new(0.841560066, 0, 0.137707114, 0)
+setjump.Size = UDim2.new(0, 35, 0, 33)
+setjump.ZIndex = 7
+setjump.Font = Enum.Font.SourceSans
+setjump.Text = "✓"
+setjump.TextColor3 = Color3.fromRGB(0, 0, 0)
+setjump.TextSize = 45.000
+setjump.TextWrapped = true
+
+UICorner_67.CornerRadius = UDim.new(1, 0)
+UICorner_67.Parent = setjump
+
+resetjump.Name = "resetjump"
+resetjump.Parent = mainscroller
+resetjump.BackgroundColor3 = Color3.fromRGB(103, 0, 1)
+resetjump.Position = UDim2.new(0.310000002, 0, 0.136880875, 0)
+resetjump.Size = UDim2.new(0, 35, 0, 33)
+resetjump.ZIndex = 7
+resetjump.Font = Enum.Font.SourceSansBold
+resetjump.Text = "X"
+resetjump.TextColor3 = Color3.fromRGB(0, 0, 0)
+resetjump.TextSize = 30.000
+resetjump.TextWrapped = true
+
+UICorner_68.CornerRadius = UDim.new(1, 0)
+UICorner_68.Parent = resetjump
+
+JumpPowerLabel.Name = "JumpPowerLabel"
+JumpPowerLabel.Parent = mainscroller
+JumpPowerLabel.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+JumpPowerLabel.BackgroundTransparency = 1.000
+JumpPowerLabel.Position = UDim2.new(0.0145657659, 0, 0.140780672, 0)
+JumpPowerLabel.Size = UDim2.new(0, 136, 0, 33)
+JumpPowerLabel.ZIndex = 5
+JumpPowerLabel.AutoButtonColor = false
+JumpPowerLabel.Font = Enum.Font.SourceSansBold
+JumpPowerLabel.Text = "JumpPower"
+JumpPowerLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+JumpPowerLabel.TextSize = 21.000
+
+UICorner_69.CornerRadius = UDim.new(0, 24)
+UICorner_69.Parent = JumpPowerLabel
+
+WalkspeedLabel.Name = "WalkspeedLabel"
+WalkspeedLabel.Parent = mainscroller
+WalkspeedLabel.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+WalkspeedLabel.BackgroundTransparency = 1.000
+WalkspeedLabel.Position = UDim2.new(0.00856576487, 0, 0.0341976024, 0)
+WalkspeedLabel.Size = UDim2.new(0, 136, 0, 33)
+WalkspeedLabel.ZIndex = 5
+WalkspeedLabel.AutoButtonColor = false
+WalkspeedLabel.Font = Enum.Font.SourceSansBold
+WalkspeedLabel.Text = "Walkspeed"
+WalkspeedLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+WalkspeedLabel.TextSize = 21.000
+
+UICorner_70.CornerRadius = UDim.new(0, 24)
+UICorner_70.Parent = WalkspeedLabel
+
+design_16.Name = "design"
+design_16.Parent = mainscroller
+design_16.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_16.Position = UDim2.new(0.0328332521, 0, 0.237947524, 0)
+design_16.Size = UDim2.new(0, 454, 0, 50)
+design_16.ZIndex = 3
+design_16.Font = Enum.Font.SourceSans
+design_16.Text = ""
+design_16.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_16.TextSize = 14.000
+
+UICorner_71.Parent = design_16
+
+design_17.Name = "design"
+design_17.Parent = mainscroller
+design_17.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_17.Position = UDim2.new(0.0328332521, 0, 0.02321399, 0)
+design_17.Size = UDim2.new(0, 454, 0, 50)
+design_17.ZIndex = 3
+design_17.Font = Enum.Font.SourceSans
+design_17.Text = ""
+design_17.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_17.TextSize = 14.000
+
+UICorner_72.Parent = design_17
+
+design_18.Name = "design"
+design_18.Parent = mainscroller
+design_18.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_18.Position = UDim2.new(0.0328332521, 0, 0.349232793, 0)
+design_18.Size = UDim2.new(0, 454, 0, 50)
+design_18.ZIndex = 3
+design_18.Font = Enum.Font.SourceSans
+design_18.Text = ""
+design_18.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_18.TextSize = 14.000
+
+UICorner_73.Parent = design_18
+
+design_19.Name = "design"
+design_19.Parent = mainscroller
+design_19.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+design_19.Position = UDim2.new(0.0328332521, 0, 0.128229663, 0)
+design_19.Size = UDim2.new(0, 454, 0, 50)
+design_19.ZIndex = 3
+design_19.Font = Enum.Font.SourceSans
+design_19.Text = ""
+design_19.TextColor3 = Color3.fromRGB(0, 0, 0)
+design_19.TextSize = 14.000
+
+UICorner_74.Parent = design_19
+
+flybutton.Name = "flybutton"
+flybutton.Parent = mainscroller
+flybutton.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+flybutton.Position = UDim2.new(0.0620000064, 0, 0.249216288, 0)
+flybutton.Size = UDim2.new(0, 150, 0, 35)
+flybutton.ZIndex = 8
+flybutton.Selected = true
+flybutton.Font = Enum.Font.SourceSansBold
+flybutton.Text = "FLY"
+flybutton.TextColor3 = Color3.fromRGB(175, 175, 175)
+flybutton.TextSize = 30.000
+
+UICorner_75.CornerRadius = UDim.new(0, 24)
+UICorner_75.Parent = flybutton
+
+flylabel.Name = "flylabel"
+flylabel.Parent = mainscroller
+flylabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+flylabel.BackgroundTransparency = 1.000
+flylabel.Position = UDim2.new(0.451999992, 0, 0.23667711, 0)
+flylabel.Size = UDim2.new(0, 200, 0, 50)
+flylabel.ZIndex = 10
+flylabel.Font = Enum.Font.SourceSansBold
+flylabel.Text = "E to Enable/Disable"
+flylabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+flylabel.TextSize = 24.000
+
+background_3.Name = "background"
+background_3.Parent = LocalPlayerFrame
+background_3.Active = true
+background_3.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+background_3.Position = UDim2.new(0.0303030312, 0, 0.0501567386, 0)
+background_3.Size = UDim2.new(0, 500, 0, 287)
+background_3.Font = Enum.Font.SourceSans
+background_3.Text = ""
+background_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+background_3.TextSize = 14.000
+
+UICorner_76.Parent = background_3
+
+CreditsFrame.Name = "CreditsFrame"
+CreditsFrame.Parent = AUT
+CreditsFrame.Active = true
+CreditsFrame.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+CreditsFrame.Position = UDim2.new(0.0301418435, 0, 0.208280653, 0)
+CreditsFrame.Size = UDim2.new(0, 528, 0, 319)
+CreditsFrame.Visible = false
+
+UICorner_77.CornerRadius = UDim.new(0, 24)
+UICorner_77.Parent = CreditsFrame
+
+UIdesign.Name = "UIdesign"
+UIdesign.Parent = CreditsFrame
+UIdesign.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+UIdesign.BackgroundTransparency = 1.000
+UIdesign.Position = UDim2.new(0.151515141, 0, 0.158022016, 0)
+UIdesign.Size = UDim2.new(0, 269, 0, 33)
+UIdesign.ZIndex = 5
+UIdesign.AutoButtonColor = false
+UIdesign.Font = Enum.Font.SourceSansBold
+UIdesign.Text = " UI Design - Mat_Devv#6666"
+UIdesign.TextColor3 = Color3.fromRGB(255, 255, 255)
+UIdesign.TextScaled = true
+UIdesign.TextSize = 27.000
+UIdesign.TextWrapped = true
+
+UICorner_78.CornerRadius = UDim.new(0, 24)
+UICorner_78.Parent = UIdesign
+
+CoolestPlayer.Name = "Coolest Player"
+CoolestPlayer.Parent = CreditsFrame
+CoolestPlayer.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+CoolestPlayer.BackgroundTransparency = 1.000
+CoolestPlayer.Position = UDim2.new(0.162924215, 0, 0.759902894, 0)
+CoolestPlayer.Size = UDim2.new(0, 418, 0, 33)
+CoolestPlayer.ZIndex = 5
+CoolestPlayer.AutoButtonColor = false
+CoolestPlayer.Font = Enum.Font.SourceSansBold
+CoolestPlayer.Text = "#1 TitanHub User:"
+CoolestPlayer.TextColor3 = Color3.fromRGB(255, 255, 255)
+CoolestPlayer.TextSize = 27.000
+CoolestPlayer.TextWrapped = true
+CoolestPlayer.TextXAlignment = Enum.TextXAlignment.Left
+
+UICorner_79.CornerRadius = UDim.new(0, 24)
+UICorner_79.Parent = CoolestPlayer
+
+Scripting.Name = "Scripting"
+Scripting.Parent = CreditsFrame
+Scripting.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+Scripting.BackgroundTransparency = 1.000
+Scripting.Position = UDim2.new(0.151515141, 0, 0.352379382, 0)
+Scripting.Size = UDim2.new(0, 269, 0, 33)
+Scripting.ZIndex = 5
+Scripting.AutoButtonColor = false
+Scripting.Font = Enum.Font.SourceSansBold
+Scripting.Text = "Scripting - Mat_Devv#6666"
+Scripting.TextColor3 = Color3.fromRGB(255, 255, 255)
+Scripting.TextScaled = true
+Scripting.TextSize = 27.000
+Scripting.TextWrapped = true
+
+UICorner_80.CornerRadius = UDim.new(0, 24)
+UICorner_80.Parent = Scripting
+
+Discord.Name = "Discord"
+Discord.Parent = CreditsFrame
+Discord.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+Discord.BackgroundTransparency = 1.000
+Discord.Position = UDim2.new(0.162924215, 0, 0.556141198, 0)
+Discord.Size = UDim2.new(0, 318, 0, 33)
+Discord.ZIndex = 5
+Discord.AutoButtonColor = false
+Discord.Font = Enum.Font.SourceSansBold
+Discord.Text = "Discord: discord.gg/g5A8fvXsKG"
+Discord.TextColor3 = Color3.fromRGB(255, 255, 255)
+Discord.TextSize = 27.000
+Discord.TextWrapped = true
+
+UICorner_81.CornerRadius = UDim.new(0, 24)
+UICorner_81.Parent = Discord
+
+dot.Name = "dot"
+dot.Parent = CreditsFrame
+dot.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+dot.BackgroundTransparency = 1.000
+dot.Position = UDim2.new(0.107999973, 0, 0.502849579, 0)
+dot.Size = UDim2.new(0, 418, 0, 33)
+dot.ZIndex = 5
+dot.AutoButtonColor = false
+dot.Font = Enum.Font.SourceSansBold
+dot.Text = "."
+dot.TextColor3 = Color3.fromRGB(255, 255, 255)
+dot.TextSize = 80.000
+dot.TextWrapped = true
+dot.TextXAlignment = Enum.TextXAlignment.Left
+
+UICorner_82.CornerRadius = UDim.new(0, 24)
+UICorner_82.Parent = dot
+
+dot_2.Name = "dot"
+dot_2.Parent = CreditsFrame
+dot_2.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+dot_2.BackgroundTransparency = 1.000
+dot_2.Position = UDim2.new(0.107999973, 0, 0.703476548, 0)
+dot_2.Size = UDim2.new(0, 418, 0, 33)
+dot_2.ZIndex = 5
+dot_2.AutoButtonColor = false
+dot_2.Font = Enum.Font.SourceSansBold
+dot_2.Text = "."
+dot_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+dot_2.TextSize = 80.000
+dot_2.TextWrapped = true
+dot_2.TextXAlignment = Enum.TextXAlignment.Left
+
+UICorner_83.CornerRadius = UDim.new(0, 24)
+UICorner_83.Parent = dot_2
+
+dot_3.Name = "dot"
+dot_3.Parent = CreditsFrame
+dot_3.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+dot_3.BackgroundTransparency = 1.000
+dot_3.Position = UDim2.new(0.107999973, 0, 0.10159567, 0)
+dot_3.Size = UDim2.new(0, 418, 0, 33)
+dot_3.ZIndex = 5
+dot_3.AutoButtonColor = false
+dot_3.Font = Enum.Font.SourceSansBold
+dot_3.Text = "."
+dot_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+dot_3.TextSize = 80.000
+dot_3.TextWrapped = true
+dot_3.TextXAlignment = Enum.TextXAlignment.Left
+
+UICorner_84.CornerRadius = UDim.new(0, 24)
+UICorner_84.Parent = dot_3
+
+dot_4.Name = "dot"
+dot_4.Parent = CreditsFrame
+dot_4.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+dot_4.BackgroundTransparency = 1.000
+dot_4.Position = UDim2.new(0.107999973, 0, 0.289683461, 0)
+dot_4.Size = UDim2.new(0, 418, 0, 39)
+dot_4.ZIndex = 10
+dot_4.AutoButtonColor = false
+dot_4.Font = Enum.Font.SourceSansBold
+dot_4.Text = "."
+dot_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+dot_4.TextSize = 80.000
+dot_4.TextWrapped = true
+dot_4.TextXAlignment = Enum.TextXAlignment.Left
+
+UICorner_85.CornerRadius = UDim.new(0, 24)
+UICorner_85.Parent = dot_4
+
+ImageLabel.Parent = AUT
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.Position = UDim2.new(-0.0656028315, 0, -0.0314931273, 0)
+ImageLabel.Size = UDim2.new(0, 124, 0, 61)
+ImageLabel.Image = "rbxassetid://8284818629"
+ImageLabel.ImageColor3 = Color3.fromRGB(117, 117, 117)
+
+-- Scripts:
+
+local function ROXPWEK_fake_script() -- PlayerTab.playertab 
+	local script = Instance.new('LocalScript', PlayerTab)
+
+	
+	--Frames--
+	
+	local localplayerframe = script.Parent.Parent.LocalPlayerFrame
+	local secondtestframe = script.Parent.Parent.FarmFrame
+	local creditsframe = script.Parent.Parent.CreditsFrame
+	local miscframe = script.Parent.Parent.MiscFrame
+	local tpframe = script.Parent.Parent.TPFrame
+	
+	--TABS--
+	
+	local misctab = script.Parent.Parent.MiscTab
+	local secondtab = script.Parent.Parent.secondtab
+	local tptab = script.Parent.Parent.TpTab
+	local playertab = script.Parent.Parent.PlayerTab
+	local credittab = script.Parent.Parent.CreditsTab
+	
+	
+	
+	--SCRIPT--
+	
+	
+	
+	
+	
+	script.Parent.MouseButton1Down:Connect(function()
+		miscframe.Visible = false
+		secondtestframe.Visible = false
+		creditsframe.Visible = false
+		localplayerframe.Visible = true
+		tpframe.Visible = false
+	
+	
+		misctab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		secondtab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		tptab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		playertab.BackgroundColor3 = Color3.fromRGB(65, 65, 65)
+		credittab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+	end)
+end
+coroutine.wrap(ROXPWEK_fake_script)()
+local function JYAG_fake_script() -- secondtab.farmtab 
+	local script = Instance.new('LocalScript', secondtab)
+
+	
+	--Frames--
+	
+	local localplayerframe = script.Parent.Parent.LocalPlayerFrame
+	local secondtestframe = script.Parent.Parent.FarmFrame
+	local creditsframe = script.Parent.Parent.CreditsFrame
+	local miscframe = script.Parent.Parent.MiscFrame
+	local tpframe = script.Parent.Parent.TPFrame
+	
+	--TABS--
+	
+	local misctab = script.Parent.Parent.MiscTab
+	local secondtab = script.Parent.Parent.secondtab
+	local tptab = script.Parent.Parent.TpTab
+	local playertab = script.Parent.Parent.PlayerTab
+	local credittab = script.Parent.Parent.CreditsTab
+	
+	
+	
+	--SCRIPT--
+	
+	
+	
+	
+	
+	script.Parent.MouseButton1Down:Connect(function()
+		miscframe.Visible = false
+		secondtestframe.Visible = true
+		creditsframe.Visible = false
+		localplayerframe.Visible = false
+		tpframe.Visible = false
+	
+	
+		misctab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		secondtab.BackgroundColor3 = Color3.fromRGB(65, 65, 65)
+		tptab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		playertab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		credittab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+	end)
+end
+coroutine.wrap(JYAG_fake_script)()
+local function CYJFGGV_fake_script() -- TpTab.tptab 
+	local script = Instance.new('LocalScript', TpTab)
+
+	
+	--Frames--
+	
+	local localplayerframe = script.Parent.Parent.LocalPlayerFrame
+	local secondtestframe = script.Parent.Parent.FarmFrame
+	local creditsframe = script.Parent.Parent.CreditsFrame
+	local miscframe = script.Parent.Parent.MiscFrame
+	local tpframe = script.Parent.Parent.TPFrame
+	
+	--TABS--
+	
+	local misctab = script.Parent.Parent.MiscTab
+	local secondtab = script.Parent.Parent.secondtab
+	local tptab = script.Parent.Parent.TpTab
+	local playertab = script.Parent.Parent.PlayerTab
+	local credittab = script.Parent.Parent.CreditsTab
+	
+	
+	
+	--SCRIPT--
+	
+	
+	
+	
+	
+	script.Parent.MouseButton1Down:Connect(function()
+		miscframe.Visible = false
+		secondtestframe.Visible = false
+		creditsframe.Visible = false
+		localplayerframe.Visible = false
+		tpframe.Visible = true
+	
+	
+		misctab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		secondtab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		tptab.BackgroundColor3 = Color3.fromRGB(65, 65, 65)
+		playertab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		credittab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+	end)
+end
+coroutine.wrap(CYJFGGV_fake_script)()
+local function UMUQRU_fake_script() -- MiscTab.misctab 
+	local script = Instance.new('LocalScript', MiscTab)
+
+	
+	--Frames--
+	
+	local localplayerframe = script.Parent.Parent.LocalPlayerFrame
+	local secondtestframe = script.Parent.Parent.FarmFrame
+	local creditsframe = script.Parent.Parent.CreditsFrame
+	local miscframe = script.Parent.Parent.MiscFrame
+	local tpframe = script.Parent.Parent.TPFrame
+	
+	--TABS--
+	
+	local misctab = script.Parent.Parent.MiscTab
+	local secondtab = script.Parent.Parent.secondtab
+	local tptab = script.Parent.Parent.TpTab
+	local playertab = script.Parent.Parent.PlayerTab
+	local credittab = script.Parent.Parent.CreditsTab
+	
+	
+	
+	--SCRIPT--
+	
+	
+	
+	
+	
+	script.Parent.MouseButton1Down:Connect(function()
+		miscframe.Visible = true
+		secondtestframe.Visible = false
+		creditsframe.Visible = false
+		localplayerframe.Visible = false
+		tpframe.Visible = false
+		
+		
+		misctab.BackgroundColor3 = Color3.fromRGB(65, 65, 65)
+		secondtab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		tptab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		playertab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		credittab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+	end)
+end
+coroutine.wrap(UMUQRU_fake_script)()
+local function YPFDFVN_fake_script() -- CreditsTab.creditstab 
+	local script = Instance.new('LocalScript', CreditsTab)
+
+	
+	--Frames--
+	
+	local localplayerframe = script.Parent.Parent.LocalPlayerFrame
+	local secondtestframe = script.Parent.Parent.FarmFrame
+	local creditsframe = script.Parent.Parent.CreditsFrame
+	local miscframe = script.Parent.Parent.MiscFrame
+	local tpframe = script.Parent.Parent.TPFrame
+	
+	--TABS--
+	
+	local misctab = script.Parent.Parent.MiscTab
+	local secondtab = script.Parent.Parent.secondtab
+	local tptab = script.Parent.Parent.TpTab
+	local playertab = script.Parent.Parent.PlayerTab
+	local credittab = script.Parent.Parent.CreditsTab
+	
+	
+	
+	--SCRIPT--
+	
+	
+	
+	
+	
+	script.Parent.MouseButton1Down:Connect(function()
+		miscframe.Visible = false
+		secondtestframe.Visible = false
+		creditsframe.Visible = true
+		localplayerframe.Visible = false
+		tpframe.Visible = false
+	
+	
+		misctab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		secondtab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		tptab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		playertab.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+		credittab.BackgroundColor3 = Color3.fromRGB(65, 65,65)
+	end)
+end
+coroutine.wrap(YPFDFVN_fake_script)()
+local function UDCD_fake_script() -- DONOTPRESS.LocalScript 
+	local script = Instance.new('LocalScript', DONOTPRESS)
+
+	local button = script.Parent
+	local plr = game.Players.LocalPlayer
+	
+	button.MouseButton1Down:Connect(function()
+		wait(1)
+		plr:Kick("You Have Been Banned From A Universal Time: 99999999999999 Days.")
+	end)
+end
+coroutine.wrap(UDCD_fake_script)()
+local function ZQLIRAM_fake_script() -- buttonsoundon.buttonsoundon 
+	local script = Instance.new('LocalScript', buttonsoundon)
+
+	local onchest = script.Parent
+	local offchest = script.Parent.Parent:FindFirstChild("buttonsoundsoff")
+	
+	
+	
+	
+	
+	
+	
+	
+	onchest.MouseButton1Down:Connect(function()
+		onchest.TextColor3 = Color3.fromRGB(17, 68, 9)
+		offchest.TextColor3 = Color3.fromRGB(255, 255, 255)
+	end)
+	
+	offchest.MouseButton1Down:Connect(function()
+		offchest.TextColor3 = Color3.fromRGB(149, 0, 2)
+		onchest.TextColor3 = Color3.fromRGB(255, 255, 255)
+	end)
+end
+coroutine.wrap(ZQLIRAM_fake_script)()
+local function JWIH_fake_script() -- DestroyUI.LocalScript 
+	local script = Instance.new('LocalScript', DestroyUI)
+
+	local button = script.Parent
+	local gui = script.Parent.Parent.Parent.Parent.Parent
+	
+	
+	button.MouseButton1Down:Connect(function()
+		button.Text = "Destroying UI!"
+		wait(1.5)
+		gui:Destroy()
+	end)
+end
+coroutine.wrap(JWIH_fake_script)()
+local function ZNCRIH_fake_script() -- OffButtonChest.chest off 
+	local script = Instance.new('LocalScript', OffButtonChest)
+
+	local button = script.Parent
+	
+	button.MouseButton1Down:connect(function()
+		
+		_G.ChestFarm = false
+		
+		if _G.ChestFarm == true then
+	
+			repeat
+				wait(0.5)
+	
+				for i, v in pairs(game:GetService("Workspace").ItemSpawns.Chests:GetDescendants()) do 
+					if v.Name == "RootPart" then
+						print("oklesgo")
+						local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+						local location = v.CFrame
+						local humanoid = game.Players.LocalPlayer.Character.Humanoid
+						humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+						wait(0.1)
+						pl.CFrame = location
+						wait(10)
+						fireproximityprompt(v.ProximityAttachment.Interaction)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					end
+				end
+	
+	
+	
+	
+			until _G.ChestFarm == false
+	
+	
+	
+	
+		end
+	end)
+end
+coroutine.wrap(ZNCRIH_fake_script)()
+local function GMMR_fake_script() -- OnButtonChest.chest on 
+	local script = Instance.new('LocalScript', OnButtonChest)
+
+	local button = script.Parent
+	
+	button.MouseButton1Down:connect(function()
+		
+		
+		_G.ChestFarm = true
+		
+		if _G.ChestFarm == true then
+	pcall(function()
+			repeat
+				wait(0.5)
+	
+				for i, v in pairs(game:GetService("Workspace").ItemSpawns.Chests:GetDescendants()) do 
+					if v.Name == "RootPart" then
+						print("oklesgo")
+						local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+						local location = v.CFrame
+						local humanoid = game.Players.LocalPlayer.Character.Humanoid
+						humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+						wait(0.1)
+						pl.CFrame = location
+						wait(10)
+						fireproximityprompt(v.ProximityAttachment.Interaction)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					end
+				end
+	
+	
+	
+	
+			until _G.ChestFarm == false
+	
+	
+	end)
+	
+			end
+			
+	end)
+end
+coroutine.wrap(GMMR_fake_script)()
+local function TRUIM_fake_script() -- FarmFrame.LightChangers 
+	local script = Instance.new('LocalScript', FarmFrame)
+
+	local offmeteor = script.Parent.OffButtonMeteor
+	local offchest = script.Parent.OffButtonChest
+	local offdebris = script.Parent.OffButtonDebris
+	local offotheritems = script.Parent.OffButtonOtherItems
+	local onmeteor = script.Parent.OnButtonMeteor
+	local onchest = script.Parent.OnButtonChest
+	local ondebris = script.Parent.OnButtonDebris
+	local onotheritems = script.Parent.OnButtonOtherItems
+	
+	
+	offmeteor.MouseButton1Down:Connect(function()
+		offmeteor.TextColor3 = Color3.fromRGB(149, 0, 2)
+		onmeteor.TextColor3 = Color3.fromRGB(255, 255, 255)
+	end)
+	
+	offchest.MouseButton1Down:Connect(function()
+		offchest.TextColor3 = Color3.fromRGB(149, 0, 2)
+		onchest.TextColor3 = Color3.fromRGB(255, 255, 255)
+	end)
+	
+	offdebris.MouseButton1Down:Connect(function()
+		offdebris.TextColor3 = Color3.fromRGB(149, 0, 2)
+		ondebris.TextColor3 = Color3.fromRGB(255, 255, 255)
+	end)
+	
+	offotheritems.MouseButton1Down:Connect(function()
+		offotheritems.TextColor3 = Color3.fromRGB(149, 0, 2)
+		onotheritems.TextColor3 = Color3.fromRGB(255, 255, 255)
+	end)
+	
+	onmeteor.MouseButton1Down:Connect(function()
+		onmeteor.TextColor3 = Color3.fromRGB(17, 68, 9)
+		offmeteor.TextColor3 = Color3.fromRGB(255, 255, 255)
+	end)
+	
+	onchest.MouseButton1Down:Connect(function()
+		onchest.TextColor3 = Color3.fromRGB(17, 68, 9)
+		offchest.TextColor3 = Color3.fromRGB(255, 255, 255)
+	end)
+	
+	ondebris.MouseButton1Down:Connect(function()
+		ondebris.TextColor3 = Color3.fromRGB(17, 68, 9)
+		offdebris.TextColor3 = Color3.fromRGB(255, 255, 255)
+	end)
+	
+	onotheritems.MouseButton1Down:Connect(function()
+		onotheritems.TextColor3 = Color3.fromRGB(17, 68, 9)
+		offotheritems.TextColor3 = Color3.fromRGB(255, 255, 255)
+	end)
+end
+coroutine.wrap(TRUIM_fake_script)()
+local function TMODTO_fake_script() -- Colleseum.LocalScript 
+	local script = Instance.new('LocalScript', Colleseum)
+
+	local button = script.Parent
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+		local location = game:GetService("Workspace").Map.Layout.Collisions.Colosseum.MeshPart.CFrame
+		local humanoid = game.Players.LocalPlayer.Character.Humanoid
+		humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+		wait(0.1)
+		pl.CFrame = location
+	
+		
+		
+	end)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+end
+coroutine.wrap(TMODTO_fake_script)()
+local function QOVNK_fake_script() -- PucciTP.LocalScript 
+	local script = Instance.new('LocalScript', PucciTP)
+
+	local button = script.Parent
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+		local location = game:GetService("Workspace").NPCS["Enrico Pucci"].Model["Meshes/ah_Plane.001 (19)"].CFrame
+		local humanoid = game.Players.LocalPlayer.Character.Humanoid
+		humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+		wait(0.1)
+		pl.CFrame = location
+	
+		
+		
+	end)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+end
+coroutine.wrap(QOVNK_fake_script)()
+local function FSVEYD_fake_script() -- JotaroTP.LocalScript 
+	local script = Instance.new('LocalScript', JotaroTP)
+
+	local button = script.Parent
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+		local location = game:GetService("Workspace").NPCS["Jotaro Kujo"].Head.CFrame
+		local humanoid = game.Players.LocalPlayer.Character.Humanoid
+		humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+		wait(0.1)
+		pl.CFrame = location
+	
+		
+		
+	end)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+end
+coroutine.wrap(FSVEYD_fake_script)()
+local function KUWPBMC_fake_script() -- KilluaTP.LocalScript 
+	local script = Instance.new('LocalScript', KilluaTP)
+
+	local button = script.Parent
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+		local location = game:GetService("Workspace").NPCS.Killua.Head.CFrame
+		local humanoid = game.Players.LocalPlayer.Character.Humanoid
+		humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+		wait(0.1)
+		pl.CFrame = location
+	
+		
+		
+	end)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+end
+coroutine.wrap(KUWPBMC_fake_script)()
+local function BRKNL_fake_script() -- ShopTP.LocalScript 
+	local script = Instance.new('LocalScript', ShopTP)
+
+	local button = script.Parent
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+		local location = game:GetService("Workspace").NPCS.ShopNPC.Head.CFrame
+		local humanoid = game.Players.LocalPlayer.Character.Humanoid
+		humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+		wait(0.1)
+		pl.CFrame = location
+	
+		
+		
+	end)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+end
+coroutine.wrap(BRKNL_fake_script)()
+local function DRAI_fake_script() -- SakuyaTP.LocalScript 
+	local script = Instance.new('LocalScript', SakuyaTP)
+
+	local button = script.Parent
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+		local location = game:GetService("Workspace").NPCS.Sakuya:FindFirstChild("0").CFrame
+		local humanoid = game.Players.LocalPlayer.Character.Humanoid
+		humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+		wait(0.1)
+		pl.CFrame = location
+	
+		
+		
+	end)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+end
+coroutine.wrap(DRAI_fake_script)()
+local function MKNVDUT_fake_script() -- UmbraTP.LocalScript 
+	local script = Instance.new('LocalScript', UmbraTP)
+
+	local button = script.Parent
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+		local location = game:GetService("Workspace").NPCS.Umbra.Head.CFrame
+		local humanoid = game.Players.LocalPlayer.Character.Humanoid
+		humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+		wait(0.1)
+		pl.CFrame = location
+	
+		
+		
+	end)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+end
+coroutine.wrap(MKNVDUT_fake_script)()
+local function JOXL_fake_script() -- Gyro.LocalScript 
+	local script = Instance.new('LocalScript', Gyro)
+
+	local button = script.Parent
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+		local location = game:GetService("Workspace").NPCS.Gyro["head 2"].CFrame
+		local humanoid = game.Players.LocalPlayer.Character.Humanoid
+		humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+		wait(0.1)
+		pl.CFrame = location
+	
+		
+		
+	end)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+end
+coroutine.wrap(JOXL_fake_script)()
+local function XGITFP_fake_script() -- QuestNPCTP.LocalScript 
+	local script = Instance.new('LocalScript', QuestNPCTP)
+
+	local button = script.Parent
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
+		local location = game:GetService("Workspace").NPCS["Daily Quest NPC"].Head.CFrame
+		local humanoid = game.Players.LocalPlayer.Character.Humanoid
+		humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+		wait(0.1)
+		pl.CFrame = location
+	
+		
+		
+	end)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+end
+coroutine.wrap(XGITFP_fake_script)()
+local function AXFY_fake_script() -- setwalkspeed.walkspeed set 
+	local script = Instance.new('LocalScript', setwalkspeed)
+
+	
+	local button = script.Parent
+	local txtbox = script.Parent.Parent:FindFirstChild("walkspeedbox")
+	
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = txtbox.Text
+		
+		
+		
+	end)
+end
+coroutine.wrap(AXFY_fake_script)()
+local function CAFMAEP_fake_script() -- resetwalkspeed.resetwalkspeed 
+	local script = Instance.new('LocalScript', resetwalkspeed)
+
+	
+	local button = script.Parent
+	
+	
+	
+	button.MouseButton1Down:Connect(function()
+		
+		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+		
+	end)
+end
+coroutine.wrap(CAFMAEP_fake_script)()
+local function JMUKH_fake_script() -- setjump.jump set 
+	local script = Instance.new('LocalScript', setjump)
+
+	
+	local button = script.Parent
+	local txtbox = script.Parent.Parent:FindFirstChild("jumppowerbox")
+	
+	
+	
+	button.MouseButton1Down:Connect(function()
+	
+		game.Players.LocalPlayer.Character.Humanoid.JumpHeight = txtbox.Text
+	
+	
+	
+	end)
+end
+coroutine.wrap(JMUKH_fake_script)()
+local function TOHSQI_fake_script() -- resetjump.reset jump 
+	local script = Instance.new('LocalScript', resetjump)
+
+	
+	local button = script.Parent
+	
+	
+	
+	button.MouseButton1Down:Connect(function()
+	
+		game.Players.LocalPlayer.Character.Humanoid.JumpHeight = 7.2
+	
+	end)
+end
+coroutine.wrap(TOHSQI_fake_script)()
+local function RWHZSSN_fake_script() -- flybutton.Fly 
+	local script = Instance.new('LocalScript', flybutton)
+
+	local button = script.Parent
+	
+	button.MouseButton1Down:Connect(function()
+		
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/MatDevv/Flymaybe/main/FlyMaybe'),true))()
+	end)
+end
+coroutine.wrap(RWHZSSN_fake_script)()
+local function RODRG_fake_script() -- CoolestPlayer.coolest player thing 
+	local script = Instance.new('LocalScript', CoolestPlayer)
+
+	local name = game.Players.LocalPlayer.Name
+	
+	script.Parent.Text = "#1 TitanHub User:  ".. name
+end
+coroutine.wrap(RODRG_fake_script)()
